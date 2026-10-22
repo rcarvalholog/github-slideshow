@@ -1,6 +1,10 @@
 """Gera o PDF em A5 de um livro da Coleção Graça que Espera.
 
-Uso: python3 tools/gerar_pdf_a5.py livros/<slug>/manuscrito.md livros/<slug>/<Titulo>-A5.pdf
+Uso: python3 tools/gerar_pdf_a5.py [--impressao] livros/<slug>/manuscrito.md livros/<slug>/<Titulo>-A5.pdf
+
+--impressao: versão para impressão a laser preto e livreto dobrado — todo o texto
+em preto puro (sem cinzas nem cor, que viram retícula) e margens espelhadas, com
+a margem maior do lado da dobra.
 
 Passos: pandoc (Markdown -> HTML), Chromium via Playwright (HTML -> PDF A5)
 e pypdf + reportlab (numeração das páginas, menos a página de rosto).
@@ -66,6 +70,13 @@ ul li { margin: 0 0 1.4mm; padding-left: 1.2em; text-indent: -1.2em; }
 .oracao p { text-align: center; text-indent: 0; font-style: italic; font-size: 11.5pt; margin-bottom: 3mm; }
 """
 
+CSS_IMPRESSAO = """
+html, blockquote, .creditos, .rosto .versao { color: #000; }
+.cap-num, .rosto .colecao, hr::after { color: #000; }
+@page :right { margin-left: 18mm; margin-right: 14mm; }
+@page :left { margin-left: 14mm; margin-right: 18mm; }
+"""
+
 PRINT_JS = """
 const { chromium } = require('playwright');
 (async () => {
@@ -109,7 +120,7 @@ def sem_quebra_no_hifen(html):
     return "".join(partes)
 
 
-def montar_html(caminho_md, fontes_css):
+def montar_html(caminho_md, fontes_css, impressao=False):
     corpo = subprocess.run(
         ["pandoc", caminho_md, "-f", "markdown", "-t", "html5", "--wrap=none"],
         check=True, capture_output=True, text=True,
@@ -149,10 +160,10 @@ def montar_html(caminho_md, fontes_css):
 
     resto = sem_quebra_no_hifen(resto)
     return f"""<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
-<style>{fontes_css}{CSS}</style></head><body>{rosto}{resto}</body></html>"""
+<style>{fontes_css}{CSS}{CSS_IMPRESSAO if impressao else ""}</style></head><body>{rosto}{resto}</body></html>"""
 
 
-def numerar_paginas(pdf_entrada, pdf_saida, titulo):
+def numerar_paginas(pdf_entrada, pdf_saida, titulo, cinza=0.35):
     pdfmetrics.registerFont(TTFont("EBGaramond", os.path.join(FONTES_DIR, "EBGaramond-400-normal.ttf")))
     leitor = PdfReader(pdf_entrada)
     escritor = PdfWriter()
@@ -162,7 +173,7 @@ def numerar_paginas(pdf_entrada, pdf_saida, titulo):
             buffer = io.BytesIO()
             c = canvas.Canvas(buffer, pagesize=A5)
             c.setFont("EBGaramond", 9)
-            c.setFillGray(0.35)
+            c.setFillGray(cinza)
             c.drawCentredString(largura / 2, 11 * 2.8346, str(i + 1))
             c.save()
             buffer.seek(0)
@@ -184,12 +195,14 @@ def titulo_legivel(titulo):
 
 
 def main(argv):
+    impressao = "--impressao" in argv
+    argv = [a for a in argv if a != "--impressao"]
     if len(argv) != 3:
         print(__doc__)
         return 2
     caminho_md, pdf_saida = argv[1], argv[2]
     titulo = re.search(r"^# (.+)$", open(caminho_md, encoding="utf-8").read(), re.MULTILINE).group(1)
-    html = montar_html(caminho_md, baixar_fontes())
+    html = montar_html(caminho_md, baixar_fontes(), impressao)
     with tempfile.TemporaryDirectory() as tmp:
         caminho_html = os.path.join(tmp, "livro.html")
         pdf_bruto = os.path.join(tmp, "livro.pdf")
@@ -199,7 +212,7 @@ def main(argv):
         env = dict(os.environ, NODE_PATH=subprocess.run(
             ["npm", "root", "-g"], capture_output=True, text=True).stdout.strip())
         subprocess.run(["node", script, caminho_html, pdf_bruto], check=True, env=env)
-        paginas = numerar_paginas(pdf_bruto, pdf_saida, titulo_legivel(titulo))
+        paginas = numerar_paginas(pdf_bruto, pdf_saida, titulo_legivel(titulo), 0 if impressao else 0.35)
     print(f"{pdf_saida}: {paginas} páginas A5")
     return 0
 
