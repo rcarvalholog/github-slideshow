@@ -1180,7 +1180,7 @@ Amém.
 
 # Referências bibliográficas
 
-*Citações de autores traduzidas a partir do original. As edições brasileiras abaixo são indicadas para consulta; a redação delas pode diferir. Itens marcados "a conferir" não puderam ser confirmados.*
+*Citações de autores traduzidas a partir do original. As edições brasileiras abaixo são indicadas para consulta; a redação delas pode diferir.*
 
 - KELLER, Timothy. *O Deus Pródigo*: recuperando a essência da fé cristã. Thomas Nelson Brasil, 2016. ISBN 978-85-7860-867-5.
 - KELLER, Timothy. *O Significado do Casamento*. Vida Nova, 2012.
