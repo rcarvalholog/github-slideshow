@@ -66,6 +66,7 @@ ul li { margin: 0 0 1.4mm; padding-left: 1.2em; text-indent: -1.2em; }
 .creditos h1 { break-before: auto; font-size: 12pt; text-align: left; margin: 0 0 4mm; }
 .creditos p { text-indent: 0; text-align: left; margin-bottom: 2.5mm; }
 .sem-quebra { white-space: nowrap; }
+.assinatura { break-inside: avoid; }
 #oracao { break-before: page; margin-top: 25mm; }
 .oracao p { text-align: center; text-indent: 0; font-style: italic; font-size: 11.5pt; margin-bottom: 3mm; }
 """
@@ -105,6 +106,22 @@ def baixar_fontes():
             urllib.request.urlretrieve(url, destino)
         blocos.append(bloco.replace(url, "file://" + destino))
     return "\n".join(blocos)
+
+
+def assinatura_junta(html):
+    """Mantém juntos os três últimos parágrafos da Carta ao Leitor (despedida e
+    assinatura), para a assinatura nunca ficar sozinha numa página."""
+    inicio = html.find('<h1 id="carta-ao-leitor"')
+    if inicio < 0:
+        return html
+    fim = html.find("<h1", inicio + 1)
+    carta = html[inicio:fim]
+    paragrafos = list(re.finditer(r"<p>.*?</p>", carta, flags=re.S))
+    if len(paragrafos) < 3:
+        return html
+    a, b = paragrafos[-3].start(), paragrafos[-1].end()
+    carta = carta[:a] + '<div class="assinatura">' + carta[a:b] + "</div>" + carta[b:]
+    return html[:inicio] + carta + html[fim:]
 
 
 def sem_quebra_no_hifen(html):
@@ -158,6 +175,7 @@ def montar_html(caminho_md, fontes_css, impressao=False):
         flags=re.S,
     )
 
+    resto = assinatura_junta(resto)
     resto = sem_quebra_no_hifen(resto)
     return f"""<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
 <style>{fontes_css}{CSS}{CSS_IMPRESSAO if impressao else ""}</style></head><body>{rosto}{resto}</body></html>"""
