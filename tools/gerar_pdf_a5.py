@@ -151,7 +151,7 @@ def numerar_paginas(pdf_entrada, pdf_saida, titulo):
 
 def titulo_legivel(titulo):
     """'OS DIAS DE ADÃO' -> 'Os Dias de Adão' (preposições e artigos em minúsculas)."""
-    pequenas = {"a", "o", "as", "os", "de", "da", "do", "das", "dos", "e", "em", "no", "na"}
+    pequenas = {"a", "o", "as", "os", "de", "da", "do", "das", "dos", "e", "em", "no", "na", "para", "por", "com"}
     palavras = titulo.lower().split()
     return " ".join(
         p if i > 0 and p in pequenas else p[:1].upper() + p[1:] for i, p in enumerate(palavras)

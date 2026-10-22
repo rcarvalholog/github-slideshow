@@ -16,7 +16,7 @@ Em *Os dias de Adão*, caminhamos ao lado do primeiro homem, do primeiro amanhec
 
 Neste livro, quem fala é a própria Eva.
 
-É um recurso literário, e quero deixá-lo claro desde a primeira página. A Bíblia não registra nenhuma conversa de Eva com as mulheres que viriam depois dela. Mas imagine, por um instante, que ela pudesse se sentar com você numa tarde tranquila, com um café entre as mãos, e contar tudo. Não como uma personagem distante de uma gravura antiga, mas como uma mulher mais velha conversando com uma mais nova. Como mãe com filha. Como amiga com amiga.
+É um recurso literário, e quero deixá-lo claro desde a primeira página. Não é uma afirmação doutrinária sobre onde Eva está hoje; é uma forma de contar. A Bíblia não registra nenhuma conversa de Eva com as mulheres que viriam depois dela. Mas imagine, por um instante, que ela pudesse se sentar com você numa tarde tranquila, com um café entre as mãos, e contar tudo. Não como uma personagem distante de uma gravura antiga, mas como uma mulher mais velha conversando com uma mais nova. Como mãe com filha. Como amiga com amiga.
 
 Imagine que ela já conhecesse a história inteira: a promessa que recebeu no jardim, o Filho que nasceria de mulher, a cruz, o túmulo vazio, as mulheres correndo para anunciar. E que, por isso, pudesse lhe falar não só do que viveu, mas do que entendeu depois.
 
@@ -149,7 +149,7 @@ A. W. Tozer escreveu sobre o Deus que nos fez, lembrando que Ele não é uma for
 
 Foi uma Pessoa que me teceu. Foi uma Pessoa que teceu você. E essa Pessoa se alegra com o que fez.
 
-> "Graças te dou, visto que por modo assombrosamente maravilhoso me formaste." — Salmos 139:14
+> "Pois somos feitura dele, criados em Cristo Jesus para boas obras." — Efésios 2:10
 
 
 # Capítulo Dois — O homem que me esperava
@@ -208,7 +208,7 @@ O amor de verdade, porém, não é só sentimento. Paulo descreveu como ele se c
 
 **O olhar para Cristo**
 
-Muito tempo depois, numa aldeia chamada Caná, houve um casamento. E Jesus estava lá.
+Séculos mais tarde, numa aldeia chamada Caná, houve um casamento. E Jesus estava lá.
 
 Gosto de pensar nisso, querida. A primeira vez que Jesus mostrou a Sua glória publicamente não foi num templo, nem num palácio, nem num campo de batalha. Foi numa festa de casamento (João 2:11). Ele foi convidado, e foi. Sentou-se à mesa com os noivos, os parentes, os amigos.
 
@@ -251,7 +251,7 @@ Nus e sem vergonha. Plenamente conhecidos, verdadeiramente amados. Eu provei iss
 
 Havia uma hora do dia de que eu gostava mais do que de todas as outras.
 
-Era o fim da tarde. O calor ia embora, uma brisa leve vinha do lado do rio, e as sombras das árvores ficavam compridas na grama. A Bíblia chama esse momento de *viração do dia*. E era nessa hora que Deus vinha andar no jardim.
+Era o fim da tarde. O calor ia embora, uma brisa leve vinha do lado do rio, e as sombras das árvores ficavam compridas na grama. A Bíblia chama esse momento de *viração do dia*. É nessa hora que a Bíblia mostra Deus andando no jardim (Gênesis 3:8), e é assim que eu me lembro d'Ele: vindo à tarde, como um hábito d'Ele.
 
 Eu não sei descrever exatamente como era, querida. Não quero inventar o que a Bíblia não diz. Mas sei que era real. Havia passos. Havia uma voz. Havia uma presença que enchia o ar como o perfume das flores depois da chuva. E Adão e eu íamos ao encontro d'Ele.
 
@@ -269,7 +269,7 @@ Não estou dizendo que caí porque faltei a um encontro. Estou dizendo que é mu
 
 Depois da queda, o mais triste não foi perder o jardim. Foi perder aquelas tardes. Quando ouvimos os passos de Deus naquele dia, em vez de correr ao encontro d'Ele, Adão e eu corremos para nos esconder entre as árvores. O encontro que era alegria virou medo.
 
-E sabe o que Deus fez? Ele veio mesmo assim. Andou pelo jardim, como fazia todos os dias, e chamou: *"Onde estás?"* (Gênesis 3:9). O encontro marcado continuava de pé, do lado d'Ele.
+E sabe o que Deus fez? Ele veio mesmo assim. Andou pelo jardim, como eu me lembro que Ele costumava fazer, e chamou: *"Onde estás?"* (Gênesis 3:9). O encontro marcado continuava de pé, do lado d'Ele.
 
 Continua de pé até hoje, querida. Do lado d'Ele, o encontro nunca foi cancelado.
 
@@ -328,12 +328,6 @@ Escolha um momento do seu dia. Pode ser de manhã cedo, antes de todos acordarem
 Leve a Bíblia, mesmo que seja para ler um versículo só. Leve as suas perguntas, as suas alegrias, as suas preocupações. Conte a Ele o que viu. E, às vezes, simplesmente fique em silêncio.
 
 Nos dias em que você faltar, e vai haver dias assim, não se castigue. Lembre-se do jardim: mesmo quando eu me escondi, Ele veio me procurar. O encontro continua de pé do lado d'Ele.
-
-John Piper escreveu uma frase que explica por que esse encontro não é uma obrigação pesada, mas o lugar da nossa maior alegria:
-
-*"Deus é mais glorificado em nós quando estamos mais satisfeitos n'Ele."* — John Piper, *Em Busca de Deus*
-
-As minhas tardes com Deus eram o lugar onde eu estava mais satisfeita. Podem ser o seu também.
 
 > "Maria, pois, escolheu a boa parte, e esta não lhe será tirada." — Lucas 10:42
 
@@ -398,7 +392,7 @@ E há uma promessa para os momentos em que a voz parece forte demais: *"Deus é 
 
 **O olhar para Cristo**
 
-Muito tempo depois, num deserto, outra conversa aconteceu.
+Num deserto da Judeia, séculos depois, outra conversa aconteceu.
 
 Jesus estava havia quarenta dias sem comer. A voz chegou, a mesma que falou comigo, com a mesma estratégia: uma pergunta que plantava dúvida. *"Se és Filho de Deus, manda que estas pedras se transformem em pães"* (Mateus 4:3).
 
@@ -426,11 +420,11 @@ E, se você já caiu, como eu caí, não pense que tudo está perdido. Eu estend
 
 Volte para Ele. Conte o que aconteceu. Ele não vai se surpreender, porque já sabe. Mas vai se alegrar por você ter voltado.
 
-Martyn Lloyd-Jones, um pastor que ajudou muitas pessoas angustiadas, ensinava que não devemos apenas ouvir os pensamentos que surgem em nós, mas responder a eles com a verdade:
+C. S. Lewis, que escreveu um livro inteiro imaginando as cartas de um demônio experiente a um aprendiz, alertou para dois erros opostos que cometemos sobre o inimigo:
 
-*"Você já percebeu que a maior parte da sua infelicidade na vida se deve ao fato de que você está ouvindo a si mesmo em vez de falar consigo mesmo?"* — Martyn Lloyd-Jones, *Depressão Espiritual*
+*"Há dois erros iguais e opostos nos quais a nossa raça pode cair a respeito dos demônios. Um é não acreditar na existência deles. O outro é acreditar e sentir por eles um interesse excessivo e doentio."* — C. S. Lewis, *Cartas de um Diabo a seu Aprendiz*
 
-Eu ouvi. Ouvi demais. Você pode aprender a falar.
+Eu cometi o segundo erro naquela tarde: fiquei interessada demais na voz da serpente. Não ignore o inimigo, querida, mas também não fique conversando com ele. Fixe os olhos em Quem já o venceu.
 
 > "Está escrito: Não só de pão viverá o homem, mas de toda palavra que procede da boca de Deus." — Mateus 4:4
 
@@ -509,11 +503,11 @@ Um dia, Pedro perguntou a Jesus quantas vezes deveria perdoar alguém que errass
 
 Jesus respondeu: *"Não te digo que até sete vezes, mas até setenta vezes sete"* (Mateus 18:22). Não era uma conta para ser feita. Era uma forma de dizer: sempre.
 
-E Jesus não ensinou só com palavras. No dia em que foi acusado injustamente, cuspido, esbofeteado e pregado numa cruz, Ele não apontou o dedo para ninguém. Pedro, que estava lá e negou conhecê-lo, escreveu depois: *"pois ele, quando ultrajado, não revidava com ultraje; quando maltratado, não fazia ameaças, mas entregava-se àquele que julga retamente"* (1 Pedro 2:23).
+E Jesus não ensinou só com palavras. No dia em que foi acusado injustamente, cuspido, esbofeteado e pregado numa cruz, Ele não apontou o dedo para ninguém. Pedro, que naquela noite O seguiu de longe e O negou, escreveu depois: *"pois ele, quando ultrajado, não revidava com ultraje; quando maltratado, não fazia ameaças, mas entregava-se àquele que julga retamente"* (1 Pedro 2:23).
 
 Adão apontou para mim. Eu apontei para a serpente. Jesus abriu os braços. Toda a culpa que vinha passando de mão em mão desde o jardim encontrou, finalmente, alguém que a carregasse.
 
-E foi no pé daquela cruz que eu entendi, querida: não preciso mais apontar. A culpa já tem para onde ir.
+E foi olhando para aquela cruz que eu entendi, querida: não preciso mais apontar. A culpa já tem para onde ir.
 
 * * *
 
@@ -533,11 +527,11 @@ Uma coisa prática que eu gostaria de ter feito: escolher o momento certo para c
 
 Espere a hora mais tranquila do dia. Comece dizendo o que você sente, e não o que ele fez de errado. Em vez de *você sempre me entrega*, tente *eu me senti sozinha naquela hora*. Parece uma diferença pequena, querida, mas muda tudo. A primeira frase aponta o dedo. A segunda abre o coração.
 
-John Stott resumiu, numa frase, o que aconteceu entre o jardim e a cruz:
+Corrie ten Boom, que sobreviveu a um campo de concentração nazista, contou anos depois como foi encontrar, numa igreja, um dos guardas que a tinham humilhado. Ele estendeu a mão pedindo perdão, e ela não sentia nada além de frieza. Mesmo assim, estendeu a mão também. E escreveu:
 
-*"A essência do pecado é o homem colocar-se no lugar de Deus, enquanto a essência da salvação é Deus colocar-se no lugar do homem."* — John Stott, *A Cruz de Cristo*
+*"O perdão é um ato da vontade, e a vontade pode agir independentemente da temperatura do coração."* — Corrie ten Boom, *Ainda aprendendo a perdoar*
 
-Naquele dia, cada um de nós quis se colocar no lugar de juiz do outro. Na cruz, Deus se colocou no nosso lugar. E é dali que nasce a força para perdoar.
+Eu não senti vontade de perdoar Adão no primeiro dia, querida. Nem no segundo. Mas descobri que o perdão começa como uma decisão, e o coração vai aprendendo a seguir depois.
 
 > "Perdoando-vos uns aos outros, como também Deus, em Cristo, vos perdoou." — Efésios 4:32
 
@@ -558,7 +552,7 @@ Eu não entendi tudo, claro. Ninguém entendeu durante muito tempo. Mas entendi 
 
 Antes de ouvir qualquer consequência, eu ouvi uma promessa.
 
-Depois vieram as consequências. Para mim, dores na gravidez e no parto, e um casamento que não seria mais tão fácil (Gênesis 3:16). Para Adão, uma terra cheia de espinhos e um trabalho cansativo. Para os dois, o retorno ao pó. Cada palavra caía em mim como uma pedra.
+Depois vieram as consequências. Para mim, dores na gravidez e no parto, e um casamento em que o meu desejo seria para o meu marido, e ele me governaria: o face a face daria lugar à disputa (Gênesis 3:16). Para Adão, uma terra cheia de espinhos e um trabalho cansativo. Para os dois, o retorno ao pó. Cada palavra caía em mim como uma pedra.
 
 E então, quando o silêncio voltou, Adão se virou para mim.
 
@@ -596,7 +590,7 @@ Quando sentir frio, querida, puxe a veste para perto. Lembre-se de quem a costur
 
 A promessa de Gênesis 3:15 é chamada pelos estudiosos de *protoevangelho*, o primeiro anúncio do evangelho na Bíblia. E repare: ela fala do descendente *da mulher*. Muito tempo depois, Paulo escreveu: *"vindo, porém, a plenitude do tempo, Deus enviou seu Filho, nascido de mulher, nascido sob a lei"* (Gálatas 4:4). O meu descendente prometido nasceu de uma filha minha, uma jovem de Nazaré chamada Maria.
 
-As peles que Deus fez são o primeiro sinal de algo que a Bíblia inteira vai repetir: para cobrir o ser humano, algo precisa ser dado. O texto não descreve a morte do animal, mas a pressupõe. E a carta aos Hebreus resumiria toda a antiga aliança dizendo que *"sem derramamento de sangue não há remissão"* (Hebreus 9:22).
+As peles que Deus fez são o primeiro sinal de algo que a Bíblia inteira vai repetir: para cobrir o ser humano, algo precisa ser dado. O texto não descreve a morte do animal, mas parece pressupô-la. E a carta aos Hebreus resumiria toda a antiga aliança dizendo que *"sem derramamento de sangue não há remissão"* (Hebreus 9:22).
 
 O profeta Isaías cantou a mesma alegria que eu senti naquele dia: *"Regozijar-me-ei muito no SENHOR, a minha alma se alegra no meu Deus; porque me cobriu de vestes de salvação e me envolveu com o manto de justiça"* (Isaías 61:10). Me cobriu. Me envolveu. Eu não me vesti. Fui vestida.
 
@@ -632,10 +626,11 @@ As folhas secam, querida. Eu sei, porque eu as vi secar na minha cintura no fim 
 
 Hoje, deixe que Ele desamarre as folhas. Pode ser assustador ficar exposta diante d'Ele por um instante. Mas Ele não vai destruir você. Vai vesti-la. E a roupa que Ele dá não seca, não rasga, não sai de moda. É a justiça de Cristo, dada de presente.
 
-E se alguém deu a você um nome de culpa, *a que errou*, *a que falhou*, *a que estragou tudo*, lembre-se do meu nome. No pior dia, eu fui chamada de *vida*. Em Cristo, você também tem um nome novo.
 E repare como Deus fez isso: com as próprias mãos, de perto, ajoelhado diante de nós. Ele não jogou as roupas de longe. Não mandou um anjo fazer o serviço. Chegou perto o bastante para ver a minha vergonha e, mesmo assim, ficou.
 
 Muitas de vocês têm medo de deixar Deus chegar perto, porque acham que, se Ele vir tudo, vai se afastar. Eu lhe digo, de quem estava nua diante d'Ele: aconteceu exatamente o contrário. Quanto mais perto Ele chegou, mais coberta eu fiquei.
+
+E se alguém deu a você um nome de culpa, *a que errou*, *a que falhou*, *a que estragou tudo*, lembre-se do meu nome. No pior dia, eu fui chamada de *vida*. Em Cristo, você também tem um nome novo.
 
 * * *
 
@@ -708,7 +703,7 @@ O mesmo Deus que me construiu no jardim tece cada criança no ventre. Davi diz: 
 
 E Deus se compara a uma mãe para falar do Seu amor. Por meio de Isaías, Ele diz: *"Como alguém a quem sua mãe consola, assim eu vos consolarei"* (Isaías 66:13). E também: *"Acaso, pode uma mulher esquecer-se do filho que ainda mama, de sorte que não se compadeça do filho do seu ventre? Mas ainda que esta viesse a se esquecer dele, eu, todavia, não me esquecerei de ti"* (Isaías 49:15).
 
-Isaías também descreve Deus como um pastor que cuida especialmente das mães: *"Como pastor, apascentará o seu rebanho; entre os seus braços recolherá os cordeirinhos e os levará no seio; as que amamentam ele guiará mansamente"* (Isaías 40:11). As que amamentam. Ele guia mansamente. Deus sabe como é cansativo, e trata as mães com ternura.
+Isaías também descreve Deus como um pastor que cuida especialmente das mães: *"Como pastor, apascentará o seu rebanho; entre os seus braços recolherá os cordeirinhos e os levará no seio; as que amamentam ele guiará mansamente"* (Isaías 40:11). Isaías usa a imagem das ovelhas que amamentam, e eu me reconheço nela. Deus sabe como é cansativo, e guia mansamente as que cuidam dos pequenos.
 
 E quero lhe lembrar de Ana, a mãe de Samuel, que eu admiro muito. Ela esperou anos por um filho, chorando e orando no templo. Quando finalmente o recebeu, fez algo que eu só aprendi muito tarde: entregou-o de volta a Deus. Ela disse: *"Por este menino orava eu; e o SENHOR me concedeu a petição que eu lhe fizera. Pelo que também o trago como devolvido ao SENHOR"* (1 Samuel 1:27-28).
 
@@ -718,7 +713,7 @@ Ana amou Samuel com todo o coração. Mas entendeu que ele era de Deus antes de 
 
 **O olhar para Cristo**
 
-Muito tempo depois, numa casa nas montanhas da Judeia, duas mulheres grávidas se encontraram.
+Numa casa nas montanhas da Judeia, séculos depois, duas mulheres grávidas se encontraram.
 
 Uma era jovem, quase uma menina. Chamava-se Maria e tinha acabado de receber a notícia mais extraordinária da história: estava grávida do Filho de Deus. A outra era mais velha, chamada Isabel, e também esperava um filho depois de muitos anos sem poder ter.
 
@@ -726,7 +721,7 @@ Maria entrou na casa e cumprimentou Isabel. E, naquele instante, o bebê de Isab
 
 Querida, quando eu leio essa cena, choro. Porque é exatamente o que eu não tive: uma mulher mais velha, grávida também, recebendo uma mais nova com bênção. Uma conversa de mulher para mulher. E, no ventre de Maria, estava o meu descendente prometido. O fruto bendito. Jesus.
 
-O filho que eu pensei que fosse a resposta não era. Mas o Filho que Maria carregava era. E Ele cresceu e, um dia, quando as mães levaram os filhos até Ele e os discípulos tentaram impedir, Jesus disse: *"Deixai os pequeninos, não os embaraceis de vir a mim, porque dos tais é o reino dos céus"* (Mateus 19:14).
+O filho que eu pensei que fosse a resposta não era. Mas o Filho que Maria carregava era. E Ele cresceu e, um dia, quando trouxeram as crianças até Ele e os discípulos tentaram impedir, Jesus disse: *"Deixai os pequeninos, não os embaraceis de vir a mim, porque dos tais é o reino dos céus"* (Mateus 19:14).
 
 Jesus ama os seus filhos, querida. Mais do que você. E é para os braços d'Ele que você pode levá-los todos os dias.
 
@@ -736,7 +731,7 @@ Jesus ama os seus filhos, querida. Mais do que você. E é para os braços d'Ele
 
 Se você é mãe, ou está para ser, deixe que eu lhe dê alguns conselhos de quem foi a primeira.
 
-Primeiro: não tenha vergonha de pedir ajuda. Eu não tinha a quem pedir. Você tem. Procure mulheres mais velhas, como Maria procurou Isabel. A maternidade não foi feita para ser vivida sozinha.
+Primeiro: não tenha vergonha de pedir ajuda. Procure mulheres mais velhas, como Maria procurou Isabel. A maternidade não foi feita para ser vivida sozinha.
 
 Segundo: entregue os seus filhos a Deus desde o primeiro dia. Eu disse *com o auxílio do Senhor*, e isso foi certo. Mas depois esqueci que o meu filho era d'Ele antes de ser meu. Lembre-se disso todos os dias: eles são herança do Senhor.
 
@@ -803,11 +798,11 @@ O sábio de Provérbios deixou uma promessa e um encorajamento: *"Ensina a crian
 
 Paulo deixou um conselho que eu gostaria de ter ouvido: *"E vós, pais, não provoqueis vossos filhos à ira, mas criai-os na disciplina e na admoestação do Senhor"* (Efésios 6:4). Não provoqueis à ira. Comparações, injustiças, favoritismos, palavras duras: tudo isso provoca. A disciplina é necessária, mas precisa vir junto com o amor.
 
-E a história de Jacó, muito depois de mim, mostra o que o favoritismo faz numa família. Jacó amava José *"mais que a todos os seus filhos"* (Gênesis 37:3), e os irmãos o odiaram por isso. Eu entendo, de dentro, o perigo dessa história.
+E a história de Jacó mostra o que o favoritismo faz numa família. Jacó amava José *"mais que a todos os seus filhos"* (Gênesis 37:3), e os irmãos o odiaram por isso. Eu entendo, de dentro, o perigo dessa história.
 
-Muito depois de mim, outra mãe, Rebeca, também teve dois filhos tão diferentes que lutavam já dentro do ventre (Gênesis 25:22). Esaú e Jacó. Ela amava mais a Jacó, o pai amava mais a Esaú (Gênesis 25:28), e a família se partiu em mentiras e fugas. Quando leio essa história, querida, sinto um aperto. É a minha história se repetindo.
+Antes disso, a própria mãe de Jacó, Rebeca, também teve dois filhos tão diferentes que lutavam já dentro do ventre (Gênesis 25:22). Esaú e Jacó. Ela amava mais a Jacó, o pai amava mais a Esaú (Gênesis 25:28), e a família se partiu em mentiras e fugas. Quando leio essa história, querida, sinto um aperto. É a minha história se repetindo.
 
-Mas a Bíblia também mostra que Deus não desistiu daquela família. Anos depois, os dois irmãos se reencontraram, e Esaú correu ao encontro de Jacó, abraçou-o e chorou (Gênesis 33:4). Mesmo onde os pais erraram, Deus pode trazer reconciliação.
+Mas a Bíblia também mostra que Deus não desistiu daquela família. Anos depois, os dois irmãos se reencontraram, e Esaú correu ao encontro de Jacó, abraçou-o, beijou-o, e os dois choraram (Gênesis 33:4). Mesmo onde os pais erraram, Deus pode trazer reconciliação.
 
 * * *
 
@@ -856,6 +851,8 @@ Nem só o filho que obedece, nem só o filho que foge. A graça alcança os dois
 
 Querida, eu demorei muito para conseguir falar sobre este dia.
 
+A Bíblia conta o crime em poucas palavras (Gênesis 4:8). Não conta como eu soube. Eu me lembro assim.
+
 Abel não voltou para casa naquela noite. Caim voltou mais cedo, comeu calado e foi dormir sem olhar para ninguém. Eu guardei comida para Abel perto do fogo. Fiquei na porta, olhando o caminho do campo. Disse a mim mesma que ele tinha se atrasado procurando uma ovelha perdida. Ele era assim. Não voltava enquanto não encontrava a última.
 
 A noite inteira passou. A comida esfriou. Eu não dormi.
@@ -868,7 +865,7 @@ Abel estava morto. E quem o matou foi o irmão.
 
 A Bíblia não registra nenhuma palavra minha sobre esse dia. E eu entendo. Não havia palavras. Há dores que não cabem em frases, e o silêncio do texto é a forma mais honesta de contar o que eu senti.
 
-Nós o enterramos, Adão e eu. O primeiro túmulo da história foi cavado por um pai e uma mãe. Eu lembro das mãos de Adão abrindo a terra, a mesma terra de onde ele tinha sido formado. Lembro de pensar nas palavras do jardim: *tu és pó e ao pó tornarás*. Eu tinha ouvido essa sentença sobre nós dois. Nunca imaginei que veria o pó receber um filho antes de nós.
+A Bíblia não conta quem enterrou Abel, mas eu me lembro assim: nós o enterramos, Adão e eu. O primeiro túmulo da história foi cavado por um pai e uma mãe. Eu lembro das mãos de Adão abrindo a terra, a mesma terra de onde ele tinha sido formado. Lembro de pensar nas palavras do jardim: *tu és pó e ao pó tornarás*. Eu tinha ouvido essa sentença sobre nós dois. Nunca imaginei que veria o pó receber um filho antes de nós.
 
 E depois veio a outra perda. Deus confrontou Caim. Perguntou a ele: *Onde está Abel, teu irmão?* (Gênesis 4:9). A mesma pergunta que tinha feito a nós no jardim, *onde estás?*, agora feita ao meu filho mais velho. E Caim respondeu com frieza: *"Não sei; acaso, sou eu tutor de meu irmão?"*
 
@@ -876,7 +873,7 @@ Deus disse a ele que o sangue de Abel clamava da terra (Gênesis 4:10). E Caim f
 
 Mas para mim, querida, era como se eu tivesse perdido os dois. Um para a morte. O outro para o pecado e para a distância.
 
-Os dias que vieram foram os mais escuros da minha vida. Eu acordava e, por um segundo, esquecia. E então lembrava, e a dor vinha inteira de novo. Arrumava a mesa e parava, com as mãos no ar, olhando os dois lugares vazios. Ouvia passos lá fora e pensava, só por um instante, que podia ser Abel.
+Os dias que vieram foram os mais escuros da minha vida. Eu acordava e, por um segundo, esquecia. E então lembrava, e a dor vinha inteira de novo. Pegava o cajado de Abel para tirá-lo do caminho e parava, com ele nas mãos, sem conseguir soltá-lo. Ouvia passos lá fora e pensava, só por um instante, que podia ser Abel.
 
 E havia a culpa. Ah, a culpa. *Eu deveria ter conversado com Caim. Eu vi a raiva dele. Eu deveria ter feito alguma coisa.* E, pior ainda, a voz antiga, a mesma do jardim: *foi você quem trouxe a morte ao mundo. Agora ela veio buscar o seu filho.*
 
@@ -922,11 +919,11 @@ Quando Jesus chegou, Marta correu ao encontro d'Ele e disse a frase que toda pes
 
 Jesus não as repreendeu. Não deu um sermão sobre fé. Viu Maria chorando, viu os outros chorando com ela, e a Bíblia diz que Ele *"agitou-se no espírito e comoveu-se"* (João 11:33).
 
-E então vem o versículo mais curto da Bíblia, e para mim um dos mais preciosos: *"Jesus chorou"* (João 11:35).
+E então vem um dos versículos mais curtos da Bíblia, e para mim um dos mais preciosos: *"Jesus chorou"* (João 11:35).
 
 Ele sabia que, em poucos minutos, ressuscitaria Lázaro. E, mesmo assim, chorou com aquelas duas mulheres. Não pulou a dor delas. Entrou nela.
 
-Querida, eu chorei sozinha diante do túmulo de Abel. Não havia ninguém que já tivesse passado por aquilo. Mas você não precisa chorar sozinha. Jesus Cristo chora com quem chora. E Ele disse naquele dia, diante do túmulo: *"Eu sou a ressurreição e a vida. Quem crê em mim, ainda que morra, viverá"* (João 11:25).
+Querida, eu chorei diante do túmulo de Abel sem ninguém que já tivesse passado por aquilo. Mas você não precisa chorar sozinha. Jesus Cristo chora com quem chora. E, ainda no caminho, antes de chegar ao túmulo, Ele tinha dito a Marta: *"Eu sou a ressurreição e a vida. Quem crê em mim, ainda que morra, viverá"* (João 11:25).
 
 O primeiro túmulo da história, eu cavei. O túmulo que mudou a história foi encontrado vazio numa manhã de domingo.
 
@@ -959,7 +956,7 @@ Eu também tive medo, querida. Medo de amar de novo e perder de novo. Mas Deus n
 
 Não sei dizer quanto tempo passou, querida. A Bíblia não conta.
 
-Mas lembro que foi um tempo de silêncio. As manhãs não tinham cor. Eu fazia as coisas porque precisavam ser feitas. Buscava água, acendia o fogo, preparava a comida para dois. A mesa continuava com dois lugares vazios, e eu tinha parado de olhar para eles.
+Mas lembro que foi um tempo de silêncio. O cajado de Abel continuou encostado num canto do abrigo por muito tempo. Ninguém tinha coragem de tirá-lo dali. Eu buscava água, acendia o fogo, cozinhava, e toda vez que passava por aquele canto, desviava os olhos.
 
 Às vezes eu pensava na promessa do jardim. *O seu descendente.* E me perguntava onde ele estava agora. Abel, que talvez pudesse ser, estava morto. Caim, que eu um dia pensei que fosse, tinha se tornado assassino e ido embora. A linhagem da promessa parecia ter sido cortada pela raiz.
 
@@ -989,7 +986,7 @@ A Bíblia não conta como isso começou, mas eu gosto de imaginar. Imagino a cas
 
 E eles chamaram. E continuaram chamando, geração após geração. De Sete a Enos, de Enos a Noé, de Noé a Abraão, de Abraão a Davi. Até que, muitos séculos depois, numa pequena cidade chamada Belém, uma filha minha deu à luz o descendente prometido.
 
-Quando Lucas escreveu a genealogia de Jesus, ele foi voltando, nome por nome, até chegar a *"Enos, filho de Sete, filho de Adão, filho de Deus"* (Lucas 3:38). O meu neto está lá. O menino que nasceu depois do meu luto está na linhagem do Salvador.
+Na genealogia de Jesus, Lucas vai voltando nome por nome até chegar a Enos, a Sete e a Adão (Lucas 3:38). O meu neto está lá. O menino que nasceu depois do meu luto está na linhagem do Salvador.
 
 Deus não desistiu de mim, querida. Ele guardou a promessa durante séculos e a cumpriu por meio do filho que me concedeu depois das lágrimas.
 
@@ -999,7 +996,7 @@ Muita gente acha que um novo começo apaga a dor antiga. Não apaga, querida. Eu
 
 E também não esqueci Caim. Orei por ele muitas vezes, em algum lugar ao oriente. A Bíblia conta que ele construiu uma cidade e teve filhos (Gênesis 4:17). Eu não sei se algum dia voltou para Deus. Mas sei que nunca deixei de entregá-lo a Ele.
 
-Talvez você também tenha um filho que foi embora, por um caminho que parte o seu coração. Continue orando, querida. Deus foi atrás de Caim no campo e falou com ele antes da tragédia. Ele também sabe o caminho até o seu filho. Você não precisa saber onde ele está para entregá-lo a Quem sabe.
+Talvez você também tenha um filho que foi embora, por um caminho que parte o seu coração. Continue orando, querida. Deus foi atrás de Caim e falou com ele antes da tragédia. Ele também sabe o caminho até o seu filho. Você não precisa saber onde ele está para entregá-lo a Quem sabe.
 
 E, enquanto isso, cuide de quem está perto. Dos que ficaram. Dos netos que estão chegando. A sua dor por um filho não precisa roubar o amor que os outros precisam receber de você.
 
@@ -1009,11 +1006,11 @@ E, enquanto isso, cuide de quem está perto. Dos que ficaram. Dos netos que est�
 
 A fé que passa de geração em geração é um dos tesouros mais preciosos que uma mulher pode deixar. Paulo, escrevendo ao jovem Timóteo, lembrou de onde veio a fé dele: *"pela recordação que guardo de tua fé sem fingimento, a mesma que, primeiramente, habitou em tua avó Lóide e em tua mãe Eunice, e estou certo de que também, em ti"* (2 Timóteo 1:5).
 
-Uma avó. Uma mãe. Um filho. A fé atravessou três gerações de mulheres antes de chegar a um dos maiores líderes da igreja.
+Uma avó. Uma mãe. Um filho. A fé passou por duas gerações de mulheres antes de chegar a Timóteo, um jovem pastor.
 
 O salmista também falou desse compromisso: *"Não o encobriremos a seus filhos; contaremos à vindoura geração os louvores do SENHOR, e o seu poder, e as maravilhas que fez"* (Salmos 78:4).
 
-E Paulo pediu que as mulheres mais velhas fossem *mestras do bem*, ensinando as mais novas a amar os maridos e os filhos (Tito 2:3-4). Foi isso que eu tentei fazer neste livro, querida. É isso que você pode fazer na sua casa e na sua igreja.
+Foi isso que a carta a Tito pediu das mulheres mais velhas (Tito 2:3-4), e foi isso que eu tentei fazer neste livro, querida. É isso que você pode fazer na sua casa e na sua igreja.
 
 O profeta Jeremias, sentado sobre ruínas, descobriu o que eu descobri ao segurar Sete: *"As misericórdias do SENHOR são a causa de não sermos consumidos, porque as suas misericórdias não têm fim; renovam-se cada manhã. Grande é a tua fidelidade"* (Lamentações 3:22-23).
 
@@ -1021,7 +1018,7 @@ O profeta Jeremias, sentado sobre ruínas, descobriu o que eu descobri ao segura
 
 **O olhar para Cristo**
 
-Era muito cedo, num domingo, quando algumas mulheres foram ao túmulo de Jesus. Levavam perfumes para ungir o corpo. Iam chorando, como eu chorei diante do túmulo de Abel.
+Era muito cedo, num domingo, quando algumas mulheres foram ao túmulo de Jesus. Iam ver o sepulcro (Mateus 28:1); Marcos conta que levavam perfumes para ungir o corpo (Marcos 16:1). Iam com o coração pesado, como eu fiquei diante do túmulo de Abel.
 
 O túmulo estava vazio. Um anjo disse a elas que Jesus tinha ressuscitado. E Mateus conta: *"E, retirando-se elas apressadamente do sepulcro, tomadas de medo e grande alegria, correram a anunciá-lo aos discípulos"* (Mateus 28:8).
 
@@ -1031,7 +1028,7 @@ E, no caminho, enquanto corriam, o próprio Jesus veio ao encontro delas. Disse:
 
 As primeiras pessoas a anunciar a ressurreição foram mulheres. Filhas minhas. Correndo de um túmulo vazio, cheias de alegria, para contar aos outros que a morte tinha sido vencida.
 
-A história que começou com uma mulher saindo de um jardim com vergonha termina com mulheres saindo de um jardim com alegria. O meu descendente esmagou a cabeça da serpente. E as minhas filhas foram as primeiras a contar.
+Eu fui a primeira mulher a chorar diante de um túmulo. Elas foram as primeiras a correr de um túmulo vazio. O meu descendente esmagou a cabeça da serpente. E as minhas filhas foram as primeiras a contar.
 
 * * *
 
@@ -1066,7 +1063,7 @@ Seja qual for, quero que você saiba: eu entendo. Não porque sou melhor do que 
 
 E é por isso que eu lhe peço uma coisa. Não guarde só para você o que aprendeu. Procure uma mulher mais nova e conte a ela a sua história. As suas quedas e as suas tardes com Deus. As suas dores e as roupas que Ele costurou para você. Ela precisa ouvir de uma mulher de verdade que Deus não desiste de nós.
 
-Se você ainda não leu *Os dias de Adão*, leia. Ali você vai conhecer o meu marido por dentro, e talvez entenda melhor o seu. E se ainda não leu *Os pensamentos de Eva*, leia também. Lá alguém tentou ouvir o que se passava no meu coração, e acertou mais do que eu gostaria de admitir.
+Se você ainda não leu *Os dias de Adão*, leia. Ali você vai conhecer o meu marido por dentro, e talvez entenda melhor os homens que você ama. E se ainda não leu *Os pensamentos de Eva*, leia também. Lá alguém tentou ouvir o que se passava no meu coração, e acertou mais do que eu gostaria de admitir.
 
 Eu queria muito ter tido uma mulher mais velha sentada ao meu lado quando eu era jovem. Não tive. Mas você pode ser essa mulher para alguém.
 
@@ -1142,8 +1139,8 @@ Amém.
 - Lamentações 3:22-23 — misericórdias que se renovam
 - Ezequiel 18:20 — cada um responde pelo próprio pecado
 - Daniel 6:10 — Daniel orava três vezes por dia
-- Mateus 4:3-10; 5:23-24; 6:6; 11:28; 18:22; 19:6, 14; 28:8-9 — a tentação de Jesus, a oração em secreto, setenta vezes sete, o casamento, os pequeninos, as mulheres no túmulo vazio
-- Marcos 1:35 — Jesus ora de madrugada
+- Mateus 4:3-10; 5:23-24; 6:6; 11:28; 18:22; 19:6, 14; 28:1, 8-9 — a tentação de Jesus, a oração em secreto, setenta vezes sete, o casamento, os pequeninos, as mulheres no túmulo vazio
+- Marcos 1:35; 16:1 — Jesus ora de madrugada; os perfumes das mulheres
 - Lucas 1:42, 45; 3:38; 10:39-42; 15:11-32 — Maria e Isabel, a genealogia, Marta e Maria, o pai e os dois filhos
 - João 1:1, 3, 29; 2:1-11; 11:21-35; 19:23-24 — o Verbo criador, o Cordeiro, as bodas de Caná, Jesus chora com Marta e Maria, a túnica repartida
 - 1 Coríntios 10:13; 13:4 — o livramento na tentação; o amor paciente
@@ -1168,10 +1165,9 @@ Amém.
 - KELLER, Timothy. *O Deus Pródigo*.
 - KELLER, Timothy. *O Significado do Casamento*.
 - LEWIS, C. S. *A Anatomia de uma Dor*.
+- LEWIS, C. S. *Cartas de um Diabo a seu Aprendiz*.
 - LEWIS, C. S. *Os Quatro Amores*.
-- LLOYD-JONES, Martyn. *Depressão Espiritual*.
-- PIPER, John. *Em Busca de Deus*.
-- STOTT, John. *A Cruz de Cristo*.
+- TEN BOOM, Corrie. *Ainda aprendendo a perdoar* (relato publicado na revista *Guideposts*, 1972).
 - TOZER, A. W. *À Procura de Deus*.
 
 # Da mesma coleção
