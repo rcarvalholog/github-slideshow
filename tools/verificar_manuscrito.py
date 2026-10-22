@@ -11,7 +11,7 @@ MAX_CAPITULOS = 12
 MIN_REFERENCIAS_POR_CAPITULO = 3
 MIN_PALAVRAS = 18000
 COLECAO = "Coleção Graça que Espera"
-APENDICES = ("Referências bíblicas", "Referências bibliográficas")
+APENDICES = ("Referências bíblicas", "Referências bibliográficas", "Da mesma coleção")
 
 REFERENCIA = re.compile(r"\b[1-3]?\s?[A-ZÁÉÍÓÚÂÊÔ][a-zçãõáéíóúâêô]+\s\d{1,3}:\d{1,3}")
 CABECALHO = re.compile(r"^(#{1,6})\s+(.*)$", re.MULTILINE)
@@ -83,7 +83,7 @@ def verificar(caminho_md):
         if any(t not in APENDICES for t in depois):
             problemas.append(
                 'A "## Oração" precisa ser a última seção do livro '
-                "(depois dela só as listas de referências)."
+                "(depois dela só as listas de referências e “Da mesma coleção”)."
             )
         oracao = [c for _, t, c in secoes if t == "Oração"][-1]
         if "jesus" not in oracao.lower():

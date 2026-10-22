@@ -26,7 +26,9 @@ com muita paciência.*
   com uma visão nova do que não conhecia, e com vontade de buscar outro livro
   da coleção.
 - **Cada livro é completo em si.** Os livros podem ser lidos em qualquer ordem.
-  Nunca cite outros títulos da coleção dentro do livro.
+  Cite os títulos já publicados da coleção no prefácio, onde couberem
+  naturalmente no texto e numa página final `# Da mesma coleção` (depois das
+  referências). A oração final nunca cita títulos.
 - Toda a obra tem como lastro a Bíblia Sagrada (evangélica).
 
 Antes de escrever, defina e anote: qual é a história, qual é a fragilidade,
@@ -323,8 +325,8 @@ onde a voz mudar de tom sem intenção, há ainda uma oportunidade de lapidaçã
 Escreva o manuscrito em Markdown, com estes cabeçalhos exatos de nível 1:
 `# Prefácio`, `# Introdução`, `# Capítulo Um — <nome>` (… até 8 a 12
 capítulos), `# Carta ao Leitor`, `# Conclusão`; a oração é `## Oração`, último
-cabeçalho dentro da Conclusão; depois dela só `# Referências bíblicas` e
-`# Referências bibliográficas`. Use `##`/`###` para seções internas.
+cabeçalho dentro da Conclusão; depois dela só `# Referências bíblicas`,
+`# Referências bibliográficas` e `# Da mesma coleção`. Use `##`/`###` para seções internas.
 
 Antes de entregar, rode o verificador da coleção (do repositório
 `github-slideshow`) e corrija até ele aprovar:

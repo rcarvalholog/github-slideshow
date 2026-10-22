@@ -81,6 +81,16 @@ class VerificarManuscritoTest(unittest.TestCase):
         )
         self.assertEqual(self.rodar(texto), [])
 
+    def test_aprova_pagina_da_mesma_colecao_apos_referencias(self):
+        texto = manuscrito(
+            depois_da_oracao=(
+                "# Referências bíblicas\n\n- Gênesis 3:9 — Deus procura Adão\n\n"
+                "# Referências bibliográficas\n\n- KELLER, Timothy. *O Deus Pródigo*.\n\n"
+                "# Da mesma coleção\n\n- *Os dias de Adão*\n- *Os pensamentos de Eva*\n"
+            )
+        )
+        self.assertEqual(self.rodar(texto), [])
+
     def test_falha_oracao_cita_titulo(self):
         oracao = ORACAO.replace("Amém.", 'Quero ler "Como eram os dias de Noé". Amém.')
         self.assertProblema(self.rodar(manuscrito(oracao=oracao)), "título")

@@ -16,6 +16,8 @@ com uma visão nova e com vontade de ler o próximo livro da coleção.
   conhecia, e pede encorajamento para a próxima leitura.
 - Cada livro é completo em si; os livros podem ser lidos em qualquer ordem.
   A oração não cita títulos — só abre o coração para "a próxima leitura".
+- (Atualização a pedido do autor, livro 3) Os livros citam os títulos já
+  publicados da coleção no prefácio, no texto e numa página "Da mesma coleção".
 
 ## Fora do escopo
 
