@@ -56,6 +56,11 @@ ul li { margin: 0 0 1.4mm; padding-left: 1.2em; text-indent: -1.2em; }
 .rosto .subtitulo-livro { font-style: italic; font-size: 12pt; margin-bottom: 30mm; text-wrap: balance; }
 .rosto .colecao { letter-spacing: 0.2em; text-transform: uppercase; font-size: 9pt; color: #6b5a3a; }
 .rosto .versao { font-size: 8.5pt; color: #666; margin-top: 4mm; }
+.rosto .autor-livro { font-size: 12pt; letter-spacing: 0.06em; margin-top: 8mm; }
+.creditos { break-after: page; height: 170mm; display: flex; flex-direction: column;
+            justify-content: flex-end; font-size: 9pt; text-align: left; color: #333; }
+.creditos h1 { break-before: auto; font-size: 12pt; text-align: left; margin: 0 0 4mm; }
+.creditos p { text-indent: 0; text-align: left; margin-bottom: 2.5mm; }
 #oracao { break-before: page; margin-top: 25mm; }
 .oracao p { text-align: center; text-indent: 0; font-style: italic; font-size: 11.5pt; margin-bottom: 3mm; }
 """
@@ -96,14 +101,19 @@ def montar_html(caminho_md, fontes_css):
         check=True, capture_output=True, text=True,
     ).stdout
 
-    # Página de rosto: tudo antes do Prefácio, sem o marcador de nome do autor.
+    # Página de rosto: tudo antes do Prefácio (ou dos créditos), sem o marcador de nome do autor.
     inicio = corpo.index('<h1 id="prefácio">')
     rosto, resto = corpo[:inicio], corpo[inicio:]
+    creditos = ""
+    if '<h1 id="créditos-editoriais">' in rosto:
+        i = rosto.index('<h1 id="créditos-editoriais">')
+        rosto, creditos = rosto[:i], f'<section class="creditos">{rosto[i:]}</section>'
+    rosto = re.sub(r'(<p>Coleção Graça que Espera</p>\s*)<p>(?!<em>)(.*?)</p>', r'\1<p class="autor-livro">\2</p>', rosto, count=1, flags=re.S)
     rosto = re.sub(r"<p>\[Nome do autor\]</p>\s*", "", rosto)
     rosto = re.sub(r"<p><em>(Citações bíblicas:.*?)</em></p>", r'<p class="versao">\1</p>', rosto)
     rosto = re.sub(r"<p>(Coleção Graça que Espera)</p>", r'<p class="colecao">\1</p>', rosto)
     rosto = re.sub(r"<p><em>(.*?)</em></p>", r'<p class="subtitulo-livro">\1</p>', rosto, count=1, flags=re.S)
-    rosto = f'<section class="rosto">{rosto}</section>'
+    rosto = f'<section class="rosto">{rosto}</section>{creditos}'
 
     # "Capítulo Um — Nome" vira número em versalete e nome como título.
     resto = re.sub(

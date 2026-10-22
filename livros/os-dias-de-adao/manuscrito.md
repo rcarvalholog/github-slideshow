@@ -4,9 +4,18 @@
 
 Coleção Graça que Espera
 
-[Nome do autor]
+Ricardo Carvalho Barbosa
 
 *Citações bíblicas: Almeida Revista e Atualizada (ARA).*
+
+# Créditos editoriais
+
+**Autor e responsável pelo projeto**\
+Ricardo Carvalho Barbosa
+
+ISNI: 0000 0005 3173 985X
+
+© 2026 Ricardo Carvalho Barbosa, quanto à seleção, organização e versão final do texto.
 
 # Prefácio
 
@@ -1085,7 +1094,7 @@ Obrigado por ter caminhado comigo pelos dias de Adão. Foi uma honra.
 
 Com carinho,
 
-o autor
+Ricardo Carvalho Barbosa
 
 # Conclusão
 
