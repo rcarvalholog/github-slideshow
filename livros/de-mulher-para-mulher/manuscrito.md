@@ -180,9 +180,9 @@ Deus disse que me faria uma *auxiliadora idônea* para Adão (Gênesis 2:18). J�
 
 Mas deixe que eu complete o pensamento, querida, porque a Bíblia também diz outra coisa, e eu não quero lhe contar só a metade.
 
-Igual em valor não quer dizer igual em tudo. Deus fez Adão primeiro e lhe deu a ordem sobre a árvore antes de eu existir (Gênesis 2:15-17). Muito tempo depois, Paulo ensinaria que o marido é chamado a ser o cabeça do lar, e que a esposa é chamada a respeitá-lo (Efésios 5:23, 33). Eu entendo hoje que isso não diminui a mulher. É uma ordem que Deus colocou no casamento, assim como colocou ordem em toda a criação.
+Igual em valor não quer dizer igual em tudo. Deus fez Adão primeiro e lhe deu o mandamento sobre a árvore antes de eu existir (Gênesis 2:15-17), como o próprio Paulo lembraria (1 Timóteo 2:13). Muito tempo depois, ele ensinaria que o marido é o cabeça da mulher, como Cristo é o cabeça da igreja, e que a esposa deve respeitá-lo (Efésios 5:23, 33). Eu entendo hoje que isso não diminui a mulher. É uma ordem que Deus colocou no casamento, assim como colocou ordem em toda a criação.
 
-Repare, porém, em que tipo de cabeça Paulo está falando. O modelo é Cristo, que amou a igreja *"e a si mesmo se entregou por ela"* (Efésios 5:25). A liderança que Deus pede ao marido não é a de quem manda e é servido. É a de quem serve primeiro, protege, se sacrifica e assume a responsabilidade. Naquela tarde no jardim, o que faltou a Adão não foi poder sobre mim. Foi coragem para estar ao meu lado e lembrar a palavra de Deus quando eu precisei.
+Antes de falar a cada um, Paulo pede que todos se sujeitem uns aos outros no temor de Cristo (Efésios 5:21). E repare em que tipo de cabeça ele está falando. O modelo é Cristo, que amou a igreja *"e a si mesmo se entregou por ela"* (Efésios 5:25). A liderança que Deus pede ao marido não é a de quem manda e é servido. É a de quem serve primeiro, protege, se sacrifica e assume a responsabilidade. Naquela tarde no jardim, o que faltou a Adão não foi poder sobre mim. Foi coragem para falar, para lembrar a palavra de Deus que ele tinha ouvido primeiro. E a mim faltou chamá-lo e perguntar. Nós dois nos calamos.
 
 E o respeito que Deus pede à esposa também não é medo, nem silêncio diante do que é errado. É honrar o marido, apoiá-lo, ajudá-lo a ser o homem que Deus quer, como auxiliadora que corresponde a ele, face a face.
 
@@ -208,7 +208,7 @@ Jesus citou essa frase quando lhe perguntaram sobre o casamento. E acrescentou: 
 
 O sábio de Eclesiastes também falou da força de quem caminha junto: *"Melhor é serem dois do que um, porque têm melhor paga do seu trabalho. Porque se caírem, um levanta o companheiro"* (Eclesiastes 4:9-10). Adão e eu caímos juntos. E, muitas vezes depois, tivemos que aprender a levantar um ao outro.
 
-Paulo, escrevendo à igreja de Éfeso, mostrou como deveria ser o amor de um marido: *"Maridos, amai vossa mulher, como também Cristo amou a igreja e a si mesmo se entregou por ela"* (Efésios 5:25). E Pedro lembrou aos maridos que tratassem as esposas com dignidade, porque são, junto com eles, herdeiras da mesma graça da vida (1 Pedro 3:7). A mesma graça. O mesmo valor diante de Deus.
+Paulo, como eu já lhe disse, pediu aos maridos que amassem como Cristo amou a igreja (Efésios 5:25). E Pedro lembrou aos maridos que tratassem as esposas com dignidade, porque são, junto com eles, herdeiras da mesma graça da vida (1 Pedro 3:7). A mesma graça. O mesmo valor diante de Deus.
 
 E o livro de Cantares, um poema inteiro sobre o amor entre um homem e uma mulher, mostra que Deus não tem vergonha da alegria do casamento. A noiva diz: *"O meu amado é meu, e eu sou dele"* (Cantares 2:16). Pertencer um ao outro. Desejar um ao outro. Alegrar-se um com o outro. Foi isso que Adão e eu vivemos nos primeiros dias, e é isso que Deus deseja para os casais até hoje.
 
@@ -1156,10 +1156,11 @@ Amém.
 - 1 Coríntios 10:13; 13:4 — o livramento na tentação; o amor paciente
 - 2 Coríntios 10:5; 11:3 — o pensamento cativo; a mente enganada
 - Gálatas 3:27; 4:4 — revestidos de Cristo; nascido de mulher
-- Efésios 2:10; 4:26, 32; 5:23, 25, 33; 6:4 — feitura de Deus, a ira e o perdão, o marido como cabeça que ama e se entrega, o respeito da esposa, criar os filhos
+- Efésios 2:10; 4:26, 32; 5:21, 23, 25, 33; 6:4 — feitura de Deus, a ira e o perdão, a sujeição mútua, o marido como cabeça que ama e se entrega, o respeito da esposa, criar os filhos
 - Filipenses 4:8 — aquilo que deve ocupar o pensamento
 - Colossenses 1:16; 3:13 — tudo foi criado em Cristo; perdoai-vos mutuamente
 - 1 Tessalonicenses 4:13 — a tristeza com esperança
+- 1 Timóteo 2:13 — Adão foi formado primeiro
 - 2 Timóteo 1:5 — a fé de Lóide e Eunice
 - Tito 2:3-4 — as mulheres mais velhas ensinam as mais novas
 - Hebreus 2:18; 9:22 — Jesus socorre os tentados; o sangue e a remissão
