@@ -111,6 +111,34 @@ class VerificarManuscritoTest(unittest.TestCase):
         texto = manuscrito().replace("\n\n# Capítulo 2", "\n# Capítulo 2")
         self.assertProblema(self.rodar(texto), "linha em branco")
 
+    def test_marcacao_markdown_nao_conta_como_palavra(self):
+        enchimento = "\n\n* * *\n\n" * 400 + "> — -\n\n" * 400
+        texto = manuscrito(palavras_por_capitulo=2150).replace("# Carta ao Leitor", enchimento + "# Carta ao Leitor")
+        self.assertProblema(self.rodar(texto), "palavras")
+
+    def test_conta_referencias_em_secoes_internas_do_capitulo(self):
+        texto = manuscrito(referencias=1).replace(
+            "# Capítulo 1 — Título 1\n\n",
+            "# Capítulo 1 — Título 1\n\n## A Palavra\n\n(Romanos 5:12) (Êxodo 12:13)\n\n",
+        )
+        problemas = self.rodar(texto)
+        self.assertFalse(any('"Capítulo 1 ' in p for p in problemas), problemas)
+
+    def test_conta_livros_com_acento_circunflexo(self):
+        texto = manuscrito(referencias=2).replace(
+            "# Capítulo 3 — Título 3\n\n", "# Capítulo 3 — Título 3\n\n(Êxodo 3:14)\n\n"
+        )
+        problemas = self.rodar(texto)
+        self.assertFalse(any('"Capítulo 3 ' in p for p in problemas), problemas)
+
+    def test_falha_oracao_cita_titulo_em_italico(self):
+        oracao = ORACAO.replace("Amém.", "Quero ler *Os dias de Noé*. Amém.")
+        self.assertProblema(self.rodar(manuscrito(oracao=oracao)), "título")
+
+    def test_falha_oracao_cita_nome_da_colecao_sem_a_palavra_colecao(self):
+        oracao = ORACAO.replace("Amém.", "Obrigado pela Graça que Espera. Amém.")
+        self.assertProblema(self.rodar(manuscrito(oracao=oracao)), "título")
+
     def test_falha_rosto_sem_colecao(self):
         texto = manuscrito(rosto="# Os dias de Adão\n\n")
         self.assertProblema(self.rodar(texto), "rosto")

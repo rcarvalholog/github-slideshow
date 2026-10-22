@@ -13,8 +13,9 @@ MIN_PALAVRAS = 18000
 COLECAO = "Coleção Graça que Espera"
 APENDICES = ("Referências bíblicas", "Referências bibliográficas")
 
-REFERENCIA = re.compile(r"\b[1-3]?\s?[A-ZÁÉÍÓÚ][a-zçãõáéíóúâêô]+\s\d{1,3}:\d{1,3}")
+REFERENCIA = re.compile(r"\b[1-3]?\s?[A-ZÁÉÍÓÚÂÊÔ][a-zçãõáéíóúâêô]+\s\d{1,3}:\d{1,3}")
 CABECALHO = re.compile(r"^(#{1,6})\s+(.*)$", re.MULTILINE)
+CABECALHO_NIVEL_1 = re.compile(r"^#\s+(.*)$", re.MULTILINE)
 
 
 def _secoes(texto):
@@ -25,6 +26,15 @@ def _secoes(texto):
         fim = marcas[i + 1].start() if i + 1 < len(marcas) else len(texto)
         secoes.append((len(m.group(1)), m.group(2).strip(), texto[m.end():fim]))
     return secoes
+
+
+def _secoes_nivel_1(texto):
+    """Lista de (título, corpo) de cada cabeçalho "# ", com o corpo indo até o próximo "# "."""
+    marcas = list(CABECALHO_NIVEL_1.finditer(texto))
+    return [
+        (m.group(1).strip(), texto[m.end():marcas[i + 1].start() if i + 1 < len(marcas) else len(texto)])
+        for i, m in enumerate(marcas)
+    ]
 
 
 def verificar(caminho_md):
@@ -50,7 +60,7 @@ def verificar(caminho_md):
         if obrigatoria not in titulos:
             problemas.append(f'Falta a seção "# {obrigatoria}".')
 
-    capitulos = [(t, c) for n, t, c in secoes if n == 1 and t.startswith("Capítulo ")]
+    capitulos = [(t, c) for t, c in _secoes_nivel_1(texto) if t.startswith("Capítulo ")]
     if not MIN_CAPITULOS <= len(capitulos) <= MAX_CAPITULOS:
         problemas.append(
             f"O livro tem {len(capitulos)} capítulos; o esperado é de {MIN_CAPITULOS} a {MAX_CAPITULOS}."
@@ -62,7 +72,7 @@ def verificar(caminho_md):
                 f'"{titulo}" tem {refs} referências bíblicas; o mínimo é {MIN_REFERENCIAS_POR_CAPITULO}.'
             )
 
-    palavras = len(texto.split())
+    palavras = len(re.findall(r"\w+", texto))
     if palavras < MIN_PALAVRAS:
         problemas.append(f"O livro tem {palavras} palavras; o mínimo é {MIN_PALAVRAS}.")
 
@@ -80,7 +90,8 @@ def verificar(caminho_md):
             problemas.append("A oração precisa se dirigir a Jesus.")
         if "próxima leitura" not in oracao.lower():
             problemas.append('A oração precisa pedir encorajamento para "a próxima leitura".')
-        if re.search(r'["“][^"”]+["”]', oracao) or "coleção" in oracao.lower():
+        cita_titulo = re.search(r'["“][^"”]+["”]', oracao) or re.search(r"\*[^*\n]+\*", oracao)
+        if cita_titulo or "coleção" in oracao.lower() or "graça que espera" in oracao.lower():
             problemas.append("A oração não pode citar o título de outro livro nem a coleção.")
 
     return problemas

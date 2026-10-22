@@ -198,8 +198,8 @@ deve refletir isso em cada detalhe.
   referência imediatamente após entre parênteses
 - Versículos longos (mais de uma linha): em parágrafo recuado, sem aspas,
   referência ao final
-- Versão bíblica padrão: Almeida Revista e Corrigida (ARC) ou Nova Versão
-  Internacional (NVI) — especifique qual ao abrir o manuscrito
+- Versão bíblica padrão da coleção: Almeida Revista e Atualizada (ARA) —
+  indique-a na página de rosto e confira cada citação na edição impressa
 
 **Citações de autores:**
 - Sempre em itálico, atribuídas com nome completo e obra na primeira menção

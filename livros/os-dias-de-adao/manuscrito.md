@@ -111,9 +111,9 @@ O capítulo 1 de Gênesis apresenta a criação como uma grande obra cósmica: l
 
 O capítulo 2 aproxima a câmera. Já não vemos o universo; vemos as mãos de Deus no barro. O verbo *formar*, em Gênesis 2:7, é o verbo do oleiro. O profeta Isaías usaria a mesma imagem séculos depois: *"Mas agora, ó SENHOR, tu és nosso Pai, nós somos o barro, e tu, o nosso oleiro; e todos nós, obra das tuas mãos"* (Isaías 64:8). Deus não fabricou Adão à distância. Sujou as mãos.
 
-E depois soprou. O fôlego de vida é o que faz do barro uma alma vivente. Sem esse sopro, Adão seria apenas uma escultura bonita. Com ele, passou a ser alguém capaz de amar, de conhecer, de responder. Jó entendeu isso quando disse: *"O Espírito de Deus me fez, e o sopro do Todo-Poderoso me dá vida"* (Jó 33:4).
+E depois soprou. O fôlego de vida é o que faz do barro uma alma vivente. Sem esse sopro, Adão seria apenas uma escultura bonita. Com ele, passou a ser alguém capaz de amar, de conhecer, de responder. Eliú, o jovem amigo de Jó, entendeu isso quando disse: *"O Espírito de Deus me fez, e o sopro do Todo-Poderoso me dá vida"* (Jó 33:4).
 
-O salmista, olhando para as estrelas, ficou espantado com a mesma coisa: *"Que é o homem, que dele te lembres? E o filho do homem, que o visites?"* (Salmos 8:4). A resposta do próprio salmo é surpreendente: Deus o fez *"pouco menor do que os anjos e de glória e de honra o coroaste"* (Salmos 8:5). Pó coroado. Barro com glória. Essa é a identidade humana desde o primeiro dia.
+O salmista, olhando para as estrelas, ficou espantado com a mesma coisa: *"Que é o homem, que dele te lembres? E o filho do homem, que o visites?"* (Salmos 8:4). A resposta do próprio salmo é surpreendente: *"Fizeste-o, no entanto, por um pouco, menor do que Deus e de glória e de honra o coroaste"* (Salmos 8:5). Pó coroado. Barro com glória. Essa é a identidade humana desde o primeiro dia.
 
 Repare que a dignidade do ser humano não vem do material de que foi feito. Vem de quem o fez e de como o fez. Vem do sopro. Vem do rosto que estava perto quando os olhos se abriram. Vem do fato de Deus ter dito, ao terminar a obra, que tudo *"era muito bom"* (Gênesis 1:31).
 
@@ -186,7 +186,7 @@ Afinal. Como quem esperou a tarde inteira.
 
 Imagine aquele despertar. Adão abre os olhos, e o jardim está igual: as mesmas árvores, o mesmo rio, a mesma luz de fim de tarde atravessando as folhas. Ele sente uma pequena dor no lado, como quem dormiu de mau jeito. Passa a mão e encontra a pele fechada, inteira. E então percebe que alguém está ali.
 
-Não é um animal. Ele soube no primeiro instante. Os olhos dela tinham a mesma coisa que ele tinha visto na água do rio: um rosto que olha de volta, que entende, que responde. Ela não precisava ser nomeada como os animais foram; ele a reconheceu. Era *dele*, e ele era *dela*. Era outra pessoa, e ao mesmo tempo era como se uma parte dele mesmo estivesse finalmente diante dele.
+Não é um animal. Ele soube no primeiro instante. Os olhos dela tinham a mesma coisa que ele tinha visto na água do rio: um rosto que olha de volta, que entende, que responde. Ele não a nomeou como fizera com os animais, olhando de fora; ele a reconheceu. Era *dele*, e ele era *dela*. Era outra pessoa, e ao mesmo tempo era como se uma parte dele mesmo estivesse finalmente diante dele.
 
 Deus a trouxe até ele. O texto usa o mesmo verbo que usou para os animais: Deus *trouxe*. Mas desta vez não era para Adão dar um nome a uma criatura. Era como um pai que conduz a noiva até o noivo. A primeira cerimônia de casamento da história foi celebrada pelo próprio Criador, num jardim sem convidados, com um sol de fim de tarde como única testemunha.
 
@@ -216,7 +216,7 @@ Deus não nos fez autossuficientes. Fez-nos para precisar de Deus e para precisa
 
 Há uma noite em que outro homem dormiu um sono profundo.
 
-Não foi num jardim florido, mas num túmulo cavado na rocha. E antes desse sono, um soldado romano abriu o seu lado com uma lança, *"e logo saiu sangue e água"* (João 19:34).
+Não foi num jardim florido, mas num túmulo novo, cavado na rocha, num jardim perto do lugar onde Ele foi crucificado (João 19:41). E antes desse sono, um soldado romano abriu o seu lado com uma lança, *"e logo saiu sangue e água"* (João 19:34).
 
 Os antigos pais da igreja viram aqui um eco de Gênesis. Do lado aberto do primeiro Adão, adormecido, Deus formou uma noiva. Do lado aberto de Jesus, o último Adão, adormecido na morte, Deus formou outra noiva: a igreja, comprada pelo sangue que escorreu daquela ferida. Paulo fala desse mistério quando diz que *"Cristo amou a igreja e a si mesmo se entregou por ela"* (Efésios 5:25).
 
@@ -410,7 +410,7 @@ E Jesus, em vez de olhar para ela, inclinou-se e começou a escrever no chão (J
 
 Quando todos os acusadores foram embora, Ele perguntou: *"Mulher, onde estão aqueles teus acusadores? Ninguém te condenou?"* E disse: *"Nem eu tampouco te condeno; vai e não peques mais"* (João 8:10-11).
 
-Jesus não ignorou o pecado. Mas cobriu a vergonha antes de tratar da culpa. E, algumas semanas depois, Ele mesmo seria pendurado nu numa cruz, diante de uma multidão que zombava. O autor de Hebreus diz que Ele *"suportou a cruz, não fazendo caso da ignomínia"* (Hebreus 12:2). Ignomínia é vergonha pública. Jesus ficou exposto para que nós pudéssemos ser cobertos.
+Jesus não ignorou o pecado. Mas cobriu a vergonha antes de tratar da culpa. E, alguns meses depois, Ele mesmo seria pendurado nu numa cruz, diante de uma multidão que zombava. O autor de Hebreus diz que Ele *"suportou a cruz, não fazendo caso da ignomínia"* (Hebreus 12:2). Ignomínia é vergonha pública. Jesus ficou exposto para que nós pudéssemos ser cobertos.
 
 As folhas de figueira não alcançam o lugar onde a vergonha mora. A cruz alcança.
 
@@ -499,7 +499,7 @@ Repare na ordem do capítulo 3 de Gênesis. Primeiro o pecado (Gênesis 3:6). De
 
 O salmista entendeu que não há esconderijo que Deus não alcance, e transformou essa verdade num cântico de consolo: *"Para onde me ausentarei do teu Espírito? Para onde fugirei da tua face? Se subo aos céus, lá estás; se faço a minha cama no mais profundo abismo, lá estás também"* (Salmos 139:7-8). Para quem foge, essa verdade assusta. Para quem está perdido, ela consola. Não há lugar longe demais.
 
-Os profetas repetem o mesmo tom. Por meio de Oséias, Deus fala de um povo que se afastou: *"Como te deixaria, ó Efraim? Como te entregaria, ó Israel? ... Meu coração está comovido dentro de mim"* (Oséias 11:8). Por meio de Isaías: *"Busquei ser achado pelos que não perguntavam por mim"* (Isaías 65:1).
+Os profetas repetem o mesmo tom. Por meio de Oséias, Deus fala de um povo que se afastou: *"Como te deixaria, ó Efraim? Como te entregaria, ó Israel? ... Meu coração está comovido dentro de mim"* (Oséias 11:8). Por meio de Isaías, Deus diz que se deixou achar até por quem nem perguntava por Ele (Isaías 65:1).
 
 E Ezequiel descreve Deus como o pastor que sai pessoalmente atrás das ovelhas: *"Eu mesmo procurarei as minhas ovelhas e as buscarei"* (Ezequiel 34:11).
 
@@ -531,9 +531,9 @@ A voz que soou no jardim tinha agora um rosto. Tinha pés empoeirados. Tinha sub
 
 E Jesus explicou, naquele mesmo dia, por que tinha vindo ao mundo: *"Porque o Filho do Homem veio buscar e salvar o perdido"* (Lucas 19:10).
 
-Buscar. É o mesmo verbo de Gênesis 3. É o mesmo movimento do jardim. Jesus é Deus continuando aquela caminhada da tarde fresca, árvore por árvore, esconderijo por esconderijo, até encontrar cada filho perdido.
+Buscar. É o mesmo movimento de Gênesis 3, o mesmo do jardim. Jesus é Deus continuando aquela caminhada da tarde fresca, árvore por árvore, esconderijo por esconderijo, até encontrar cada filho perdido.
 
-E na parábola mais conhecida que contou, Jesus descreveu um pai que vê o filho voltar *"quando ainda estava longe"* e *"correndo, o abraçou e beijou"* (Lucas 15:20). O pai correu. Num mundo em que homens de respeito não corriam, ele levantou a túnica e correu. Porque o amor que procura não espera o filho chegar até a porta.
+E na parábola mais conhecida que contou, Jesus descreveu um pai que avista o filho quando este *"vinha ainda longe"* e, *"correndo, o abraçou, e beijou"* (Lucas 15:20). O pai correu. Num mundo em que homens de respeito não corriam, ele levantou a túnica e correu. Porque o amor que procura não espera o filho chegar até a porta.
 
 Onde estás? Essa pergunta nunca foi uma ameaça. Sempre foi o som de um coração que não desistiu de você.
 
@@ -592,9 +592,9 @@ E assim nasceu a corrente. Cada um passando a culpa adiante, como uma pedra quen
 
 Ninguém disse: *fui eu*.
 
-Imagine como foi a noite seguinte entre os dois.
+Imagine como foram as noites seguintes entre os dois.
 
-Já vestidos com as peles que Deus faria, já fora do jardim, deitados lado a lado sob um céu que agora parecia mais frio. Eva acordada, olhando para o escuro. Lembrando da voz de Adão dizendo *ela me deu*. Lembrando do dedo apontado. E Adão, também acordado, sabendo que ela estava pensando nisso, e sem saber o que dizer.
+Vestidos com as peles que Deus tinha feito, já fora do jardim, deitados lado a lado sob um céu que agora parecia mais frio. Eva acordada, olhando para o escuro. Lembrando da voz de Adão dizendo *ela me deu*. Lembrando do dedo apontado. E Adão, também acordado, sabendo que ela estava pensando nisso, e sem saber o que dizer.
 
 Talvez tenha sido a primeira briga de casal da história. Ou talvez tenha sido pior: o primeiro silêncio ressentido. Aquele em que nenhum dos dois fala, e os dois sabem exatamente por quê.
 
@@ -642,7 +642,7 @@ Jesus não apontou para ninguém. Abriu os braços.
 
 Para quem você tem apontado?
 
-Talvez para o cônjuge, que não te entende. Para os pais, que erraram com você. Para o chefe, para o governo, para a igreja, para a infância difícil. Algumas dessas mágoas são reais e merecem cuidado. Mas talvez, no meio delas, exista uma parte que é sua e que você ainda não teve coragem de assumir.
+Talvez para o cônjuge, que não entende você. Para os pais, que erraram com você. Para o chefe, para o governo, para a igreja, para a infância difícil. Algumas dessas mágoas são reais e merecem cuidado. Mas talvez, no meio delas, exista uma parte que é sua e que você ainda não teve coragem de assumir.
 
 Não há condenação aqui. Há um convite. Você não precisa mais segurar a pedra quente, nem jogá-la em ninguém. Pode entregá-la a quem já a carregou.
 
@@ -707,7 +707,7 @@ Por Deus. Com um preço que eles não pagaram.
 
 Gênesis 3:21 é um dos versículos mais silenciosos e mais profundos da Bíblia. Em uma frase, ele mostra o que Deus faz com a vergonha humana: Ele a cobre. Não com folhas que secam, mas com algo que custou uma vida.
 
-Pela primeira vez nas Escrituras, sangue é derramado para cobrir o ser humano. É a semente de tudo o que viria depois. Abel ofereceria *"das primícias do seu rebanho"* (Gênesis 4:4). Abraão ouviria que *"Deus proverá para si o cordeiro"* (Gênesis 22:8). Israel pintaria os batentes das portas com sangue de cordeiro na noite da Páscoa (Êxodo 12:13). E a lei de Moisés estabeleceria que *"sem derramamento de sangue não há remissão"* (Hebreus 9:22).
+O texto não descreve a morte do animal, mas a pressupõe: pela primeira vez nas Escrituras, uma vida é dada para cobrir o ser humano. É a semente de tudo o que viria depois. Abel ofereceria *"das primícias do seu rebanho"* (Gênesis 4:4). Abraão ouviria que *"Deus proverá para si o cordeiro"* (Gênesis 22:8). Israel pintaria os batentes das portas com sangue de cordeiro na noite da Páscoa (Êxodo 12:13). E a carta aos Hebreus resumiria toda a lei de Moisés dizendo que *"sem derramamento de sangue não há remissão"* (Hebreus 9:22).
 
 Tudo começou aqui. Na grama do Éden. Nas mãos de Deus.
 
@@ -939,7 +939,7 @@ O sangue de Abel dizia: *justiça*. O sangue de Jesus diz: *perdão*. O sangue d
 
 E Jesus conhece o luto por dentro. Diante do túmulo do amigo Lázaro, sabendo que em poucos minutos o ressuscitaria, Ele ainda assim parou e chorou. O versículo mais curto da Bíblia é também um dos mais consoladores: *"Jesus chorou"* (João 11:35). Ele não se apressou para pular a dor. Ficou nela com Marta e Maria.
 
-E depois disse as palavras que nenhum outro ser humano teria autoridade para dizer diante de um túmulo: *"Eu sou a ressurreição e a vida. Quem crê em mim, ainda que morra, viverá"* (João 11:25).
+Pouco antes, tinha dito a Marta as palavras que nenhum outro ser humano teria autoridade para dizer diante de um túmulo: *"Eu sou a ressurreição e a vida. Quem crê em mim, ainda que morra, viverá"* (João 11:25).
 
 O primeiro túmulo foi cavado por Adão. O túmulo que mudou a história foi encontrado vazio numa manhã de domingo.
 
@@ -1004,7 +1004,7 @@ E Deus esperou. Com uma paciência que atravessou milênios, Deus continuou cham
 
 Gênesis 5 é uma genealogia, e muita gente pula esses capítulos quando lê a Bíblia. Mas há um refrão nele que soa como um sino: *"e morreu... e morreu... e morreu"*. Exatamente como Deus tinha avisado. O pó voltava ao pó, geração após geração.
 
-E, no entanto, no meio desse refrão, aparece uma exceção: *"Andou Enoque com Deus e já não era, porque Deus o tomou para si"* (Gênesis 5:24). Um homem da sétima geração depois de Adão voltou a fazer o que Adão fazia no jardim: andar com Deus. Mesmo a leste do Éden, a comunhão era possível. Era um sinal de que a morte não teria a última palavra.
+E, no entanto, no meio desse refrão, aparece uma exceção: *"Andou Enoque com Deus e já não era, porque Deus o tomou para si"* (Gênesis 5:24). Um homem que era o sétimo a partir de Adão (Judas 14) voltou a fazer o que Adão fazia no jardim: andar com Deus. Mesmo a leste do Éden, a comunhão era possível. Era um sinal de que a morte não teria a última palavra.
 
 O apóstolo Paulo olha para toda essa história e a resume em duas pessoas: *"Porque, assim como, em Adão, todos morrem, assim também todos serão vivificados em Cristo"* (1 Coríntios 15:22). E explica em outra carta: *"Porque, como, pela desobediência de um só homem, muitos se tornaram pecadores, assim também, por meio da obediência de um só, muitos se tornarão justos"* (Romanos 5:19).
 
@@ -1032,7 +1032,7 @@ Uma cidade. Um rio de água da vida, brilhante como cristal, saindo do trono de 
 
 A árvore da vida. A mesma que os querubins guardavam com a espada de fogo. Ela está de volta. E não há mais querubins na entrada, nem espada girando. O caminho está aberto.
 
-E o texto continua: *"Nunca mais haverá qualquer maldição"* (Apocalipse 22:3). Nunca mais espinhos. Nunca mais suor que não rende. Nunca mais túmulos cavados por pais. *"E lhe enxugará dos olhos toda lágrima, e a morte já não existirá"* (Apocalipse 21:4).
+E o texto continua: *"Nunca mais haverá qualquer maldição"* (Apocalipse 22:3). Nunca mais espinhos. Nunca mais suor que não rende. Nunca mais túmulos cavados por pais. *"E lhes enxugará dos olhos toda lágrima, e a morte já não existirá"* (Apocalipse 21:4).
 
 E, acima de tudo: *"contemplarão a sua face"* (Apocalipse 22:4).
 
@@ -1047,6 +1047,18 @@ Talvez você também tenha muitos anos de lembranças. Algumas bonitas, outras q
 A história de Adão diz que nenhuma dessas coisas é maior que a paciência de Deus. Ele esperou novecentos e trinta anos com Adão. Esperou milhares de anos pela humanidade. E espera por você agora, com a mesma voz da tarde fresca.
 
 Você não precisa ver tudo resolvido para confiar. Adão não viu. Mas morreu com a promessa, e a promessa se cumpriu.
+
+Pense no que Adão poderia ter feito com os seus novecentos e trinta anos. Poderia ter passado todos eles olhando para trás, remoendo a tarde do fruto, repetindo para si mesmo que tinha estragado tudo. Teria sido compreensível. Ninguém na história teve mais motivo para viver preso ao passado.
+
+Mas a frase de Gênesis 4:26 sugere outro caminho. Na casa de Adão, os filhos e os netos aprenderam a invocar o nome do Senhor. Alguém, ali, decidiu que a última palavra sobre aquela família não seria a queda, mas a oração. Alguém escolheu olhar para a frente, para a promessa, em vez de olhar só para trás, para a perda.
+
+Você também pode fazer essa escolha. Não precisa fingir que o passado não aconteceu. Adão nunca esqueceu o jardim, e você também não vai esquecer o que viveu. Mas pode decidir que a sua história não vai ser contada apenas pelas suas quedas. Pode decidir que, na sua casa, alguém vai invocar o nome do Senhor.
+
+Às vezes isso começa de um jeito muito simples. Uma oração antes do almoço. Um versículo lido em voz alta à noite. Uma conversa com um filho, um neto, um amigo mais novo, em que você conta não só os seus erros, mas também a graça que encontrou depois deles. A fé que atravessou as gerações de Adão até Noé não passou por discursos grandiosos. Passou por casas comuns, por gente comum, que se lembrava de chamar por Deus.
+
+E o mais bonito é que o tempo que ainda lhe resta, seja ele curto ou longo, cabe inteiro na paciência de Deus. Não é tarde demais para começar. Adão tinha mais de cem anos quando Sete nasceu, e mais de duzentos quando Enos veio ao mundo. A história de graça daquela família começou a florescer quando ele já era velho.
+
+Deus não mede a sua vida pelos anos que você perdeu. Ele a mede pela promessa que cumpriu em Jesus.
 
 E se, como Adão, você tiver alguém sentado no seu colo, ou na sua mesa, ou na sua vida, perguntando *como é Deus?*, que resposta você vai dar?
 
@@ -1065,9 +1077,9 @@ Enquanto escrevia, muitas vezes me vi em Adão. Me vi costurando folhas. Me vi a
 
 E foi isso que eu descobri, e que quero deixar com você: a voz nunca foi brava. Eu tinha medo dela. Fugi dela por muito tempo. Mas, quando finalmente respondi, ela não me esmagou. Ela me vestiu.
 
-Se você ainda está se escondendo, tudo bem. Não vou te apressar. Deus também não. Mas quero te pedir uma coisa pequena: não se acostume com o esconderijo. Não ache que é ali que você mora. Você foi feito para andar ao ar livre, na viração do dia, com o rosto descoberto.
+Se você ainda está se escondendo, tudo bem. Não vou apressar você. Deus também não. Mas quero lhe pedir uma coisa pequena: não se acostume com o esconderijo. Não ache que é ali que você mora. Você foi feito para andar ao ar livre, na viração do dia, com o rosto descoberto.
 
-E se você já saiu de trás da árvore, se já foi vestido por Ele, então te peço outra coisa: seja paciente com quem ainda está escondido. Você sabe como é. Chame com a mesma voz mansa que te chamou.
+E se você já saiu de trás da árvore, se já foi vestido por Ele, então lhe peço outra coisa: seja paciente com quem ainda está escondido. Você sabe como é. Chame com a mesma voz mansa que chamou você.
 
 Obrigado por ter caminhado comigo pelos dias de Adão. Foi uma honra.
 
@@ -1136,7 +1148,7 @@ Amém.
 - Gênesis 4:1-26 — Caim e Abel; o sinal em Caim; o nascimento de Sete; os primeiros ofícios; a invocação do nome do SENHOR
 - Gênesis 5:1-5, 24 — os dias de Adão; Enoque anda com Deus
 - Gênesis 22:8 — Deus proverá o cordeiro
-Êxodo 12:13; 26:31 — o sangue da Páscoa; o véu com querubins
+- Êxodo 12:13; 26:31 — o sangue da Páscoa; o véu com querubins
 - 2 Samuel 18:33 — o luto de Davi por Absalão
 - Jó 33:4 — o sopro do Todo-Poderoso dá vida
 - Salmos 8:4-5; 32:3-5; 34:18; 42:1-2; 119:11; 124:8; 139:7-8 — a dignidade humana, a confissão, a sede de Deus, a proximidade de Deus
@@ -1149,7 +1161,7 @@ Amém.
 - Oséias 11:8 — o coração comovido de Deus
 - Mateus 4:3-4; 11:28; 27:46, 51; 28:20 — a tentação de Jesus, o descanso, a cruz, o véu rasgado, a presença
 - Lucas 15:4-8, 20; 19:5, 10; 23:34 — a ovelha, a moeda, o pai que corre, Zaqueu, o perdão na cruz
-- João 1:29; 8:6-11, 44; 11:25, 35; 14:6; 15:4; 19:2, 23-24, 34; 20:22 — o Cordeiro de Deus e os sinais do último Adão
+- João 1:29; 8:6-11, 44; 11:25, 35; 14:6; 15:4; 19:2, 23-24, 34, 41; 20:22 — o Cordeiro de Deus e os sinais do último Adão
 - Romanos 3:23; 5:12, 19; 8:1, 22, 32 — o pecado, a obediência de Cristo, nenhuma condenação, a criação que geme
 - 1 Coríntios 10:13; 15:22, 45 — o livramento na tentação; o último Adão
 - 2 Coríntios 5:17, 21; 11:3 — nova criatura; a troca na cruz
@@ -1162,6 +1174,7 @@ Amém.
 - Tiago 1:14-15 — como a tentação concebe o pecado
 - 2 Pedro 3:9 — a paciência do Senhor
 - 1 João 1:8-9 — a confissão e o perdão
+- Judas 14 — Enoque, o sétimo a partir de Adão
 - Apocalipse 7:14; 21:4; 22:2-4 — as vestes brancas, a árvore da vida, a face de Deus
 
 # Referências bibliográficas
