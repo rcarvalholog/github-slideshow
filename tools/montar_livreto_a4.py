@@ -1,6 +1,9 @@
 """Monta um livreto para impressão: páginas A5 imposicionadas duas a duas em folhas A4.
 
-Uso: python3 tools/montar_livreto_a4.py <livro-A5.pdf> <livreto-A4.pdf>
+Uso: python3 tools/montar_livreto_a4.py [--em-ordem] <livro-A5.pdf> <saida-A4.pdf>
+
+--em-ordem: duas páginas por face na ordem normal de leitura (1-2, 3-4, ...),
+para imprimir frente e verso sem dobrar (folhas soltas ou espiral).
 
 As páginas são completadas com páginas em branco até um múltiplo de 4 e
 dispostas na ordem de livreto (grampo a cavalo): imprimindo frente e verso,
@@ -24,12 +27,18 @@ def ordem_livreto(total):
     return [tuple(p if p < total else None for p in par) for par in pares], n
 
 
-def montar(entrada, saida):
+def ordem_sequencial(total):
+    """Pares (esquerda, direita) na ordem de leitura; None = página em branco."""
+    n = total + total % 2
+    return [tuple(p if p < total else None for p in (i, i + 1)) for i in range(0, n, 2)], n
+
+
+def montar(entrada, saida, em_ordem=False):
     leitor = PdfReader(entrada)
     paginas = leitor.pages
     largura, altura = A4_PAISAGEM
     escritor = PdfWriter()
-    pares, n = ordem_livreto(len(paginas))
+    pares, n = (ordem_sequencial if em_ordem else ordem_livreto)(len(paginas))
     for esquerda, direita in pares:
         face = PageObject.create_blank_page(width=largura, height=altura)
         for indice, deslocamento in ((esquerda, 0), (direita, largura / 2)):
@@ -43,15 +52,18 @@ def montar(entrada, saida):
             face.merge_transformed_page(pagina, Transformation().scale(escala).translate(dx, dy))
         face.mediabox = RectangleObject([0, 0, largura, altura])
         escritor.add_page(face)
-    escritor.add_metadata({"/Title": (leitor.metadata or {}).get("/Title", "") + " (livreto A4)"})
+    sufixo = " (A4, 2 páginas por face)" if em_ordem else " (livreto A4)"
+    escritor.add_metadata({"/Title": (leitor.metadata or {}).get("/Title", "") + sufixo})
     with open(saida, "wb") as f:
         escritor.write(f)
     return len(paginas), n, len(pares)
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
+    em_ordem = "--em-ordem" in sys.argv
+    args = [a for a in sys.argv[1:] if a != "--em-ordem"]
+    if len(args) != 2:
         print(__doc__)
         sys.exit(2)
-    paginas, n, faces = montar(sys.argv[1], sys.argv[2])
-    print(f"{sys.argv[2]}: {paginas} páginas A5 -> {n} com brancos -> {faces} faces A4 ({faces // 2} folhas)")
+    paginas, n, faces = montar(args[0], args[1], em_ordem)
+    print(f"{args[1]}: {paginas} páginas A5 -> {n} com brancos -> {faces} faces A4 ({(faces + 1) // 2} folhas)")
