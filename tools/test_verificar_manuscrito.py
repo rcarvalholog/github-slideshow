@@ -10,7 +10,7 @@ PALAVRAS_POR_CAPITULO = 2400
 ORACAO = (
     "## Oração\n\n"
     "Senhor Jesus, eu me apresento a Ti. Obrigado por esta leitura e pela visão "
-    "nova que eu não conhecia. Encoraja meu coração para a próxima leitura. Amém.\n"
+    "nova que eu não conhecia. Encoraja meu coração para a próxima leitura. Amém.\n\n"
 )
 
 
@@ -106,6 +106,10 @@ class VerificarManuscritoTest(unittest.TestCase):
 
     def test_falha_sem_carta(self):
         self.assertProblema(self.rodar(manuscrito(carta=False)), "Carta")
+
+    def test_falha_cabecalho_colado_no_paragrafo_anterior(self):
+        texto = manuscrito().replace("\n\n# Capítulo 2", "\n# Capítulo 2")
+        self.assertProblema(self.rodar(texto), "linha em branco")
 
     def test_falha_rosto_sem_colecao(self):
         texto = manuscrito(rosto="# Os dias de Adão\n\n")

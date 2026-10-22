@@ -34,6 +34,13 @@ def verificar(caminho_md):
     secoes = _secoes(texto)
     titulos = [t for _, t, _ in secoes]
 
+    for m in CABECALHO.finditer(texto):
+        if m.start() > 0 and not texto[:m.start()].endswith("\n\n"):
+            problemas.append(
+                f'O cabeçalho "{m.group(2).strip()}" precisa de uma linha em branco antes '
+                "(senão o pandoc não o reconhece como título)."
+            )
+
     inicio_prefacio = texto.find("# Prefácio")
     rosto = texto[:inicio_prefacio] if inicio_prefacio >= 0 else ""
     if COLECAO not in rosto:
