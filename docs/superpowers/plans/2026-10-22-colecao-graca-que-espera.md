@@ -2,7 +2,7 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Criar a skill da coleção "Graça que Espera" e escrever com ela o primeiro livro, "Como eram os dias de Noé", entregue em .docx.
+**Goal:** Criar a skill da coleção "Graça que Espera" e escrever com ela o primeiro livro, "Os dias de Adão", entregue em .docx.
 
 **Architecture:** Uma skill nova (`SKILL.md`) que herda a estrutura da skill `manuscrito-biblico` e acrescenta as regras da coleção. Um script Python verifica, de forma automática, se um manuscrito cumpre essas regras. O livro é escrito em Markdown e convertido para .docx com pandoc.
 
@@ -59,18 +59,18 @@
 - [ ] **Step 6: Instalar a cópia** em `/root/.claude/skills/colecao-graca-que-espera/SKILL.md` e confirmar com `diff` (sem saída).
 - [ ] **Step 7: Commit:** `git add skills tools && git commit -m "Adiciona skill da Coleção Graça que Espera e verificador de manuscritos"`
 
-### Task 2: Livro 1 — "Como eram os dias de Noé"
+### Task 2: Livro 1 — "Os dias de Adão"
 
 **Files:**
-- Create: `livros/como-eram-os-dias-de-noe/manuscrito.md`
-- Create: `livros/como-eram-os-dias-de-noe/Como-eram-os-dias-de-Noe.docx`
+- Create: `livros/os-dias-de-adao/manuscrito.md`
+- Create: `livros/os-dias-de-adao/Os-dias-de-Adao.docx`
 
 **Interfaces:**
 - Consumes: a skill da Task 1 (regras e convenção de títulos) e `verificar_manuscrito.py`.
 
-- [ ] **Step 1: Arco do livro.** Escrever no topo do trabalho (não no arquivo) o arco de 8–12 capítulos: fragilidade = viver num mundo que perdeu o rumo e sentir-se sozinho; graça = a paciência de Deus enquanto a arca era construída (1 Pedro 3:20; 2 Pedro 3:9), cumprida em Cristo (Mateus 24:37-39; Hebreus 11:7).
+- [ ] **Step 1: Arco do livro.** Escrever no topo do trabalho (não no arquivo) o arco de 8–12 capítulos: fragilidade = a vergonha que nos faz esconder (Gênesis 3:8-10); graça = Deus que procura e veste (Gênesis 3:9; 3:21), cumprida em Cristo, o segundo Adão (Romanos 5:17-19; 1 Coríntios 15:45).
 - [ ] **Step 2: Escrever o manuscrito completo** seguindo a skill, capítulo a capítulo.
-- [ ] **Step 3: Verificar:** `python3 tools/verificar_manuscrito.py livros/como-eram-os-dias-de-noe/manuscrito.md` → sai 0, sem problemas. Corrigir e repetir até passar.
+- [ ] **Step 3: Verificar:** `python3 tools/verificar_manuscrito.py livros/os-dias-de-adao/manuscrito.md` → sai 0, sem problemas. Corrigir e repetir até passar.
 - [ ] **Step 4: Revisão de tom** (Review Focus 3): reler cada capítulo procurando acusação ou moralismo; reescrever trechos encontrados.
-- [ ] **Step 5: Converter:** `pandoc livros/como-eram-os-dias-de-noe/manuscrito.md -o livros/como-eram-os-dias-de-noe/Como-eram-os-dias-de-Noe.docx` e abrir com `python-docx` para confirmar que o último parágrafo pertence à oração.
-- [ ] **Step 6: Commit e push:** `git add livros && git commit -m "Livro 1 da Coleção Graça que Espera: Como eram os dias de Noé" && git push -u origin claude/install-script-execution-2yn8gq`
+- [ ] **Step 5: Converter:** `pandoc livros/os-dias-de-adao/manuscrito.md -o livros/os-dias-de-adao/Os-dias-de-Adao.docx` e abrir com `python-docx` para confirmar que o último parágrafo pertence à oração.
+- [ ] **Step 6: Commit e push:** `git add livros && git commit -m "Livro 1 da Coleção Graça que Espera: Os dias de Adão" && git push -u origin claude/install-script-execution-2yn8gq`

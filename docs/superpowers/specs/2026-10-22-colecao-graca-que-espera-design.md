@@ -39,12 +39,14 @@ com uma visão nova e com vontade de ler o próximo livro da coleção.
 1. Criar a skill `colecao-graca-que-espera`: usa a estrutura da
    `manuscrito-biblico` e acrescenta as regras da coleção; o final "com imagem"
    da conclusão é substituído pela oração.
-2. Escrever o primeiro livro: **"Como eram os dias de Noé"**.
+2. Escrever o primeiro livro: **"Os dias de Adão"**. ("Como eram os dias de Noé" fica como segundo livro, num trabalho posterior.)
 
 ## Escolhas do Claude (para o autor conferir)
 
-- Fragilidade do primeiro livro: viver num mundo que perdeu o rumo e sentir-se
-  sozinho, enquanto Deus espera com paciência (1 Pedro 3:20; 2 Pedro 3:9).
+- Fragilidade do primeiro livro: a vergonha que nos faz esconder de Deus e dos
+  outros (Gênesis 3:8-10); a graça paciente de Deus que procura ("Onde estás?")
+  e veste (Gênesis 3:21), cumprida em Cristo, o segundo Adão (Romanos 5:17-19;
+  1 Coríntios 15:45).
 - Formato de entrega: Word (.docx), pronto para revisão e para a skill de
   publicação na web.
 - A skill é salva no repositório e no container; o autor a adiciona à conta
