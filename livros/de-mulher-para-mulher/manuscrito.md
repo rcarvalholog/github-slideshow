@@ -178,6 +178,16 @@ Não é. O casamento, no coração de Deus, é aquele *afinal*. É ser esperada.
 
 Deus disse que me faria uma *auxiliadora idônea* para Adão (Gênesis 2:18). Já ouvi muita gente usar essa expressão como se eu tivesse sido feita para ser empregada dele. Não é isso. A palavra que Deus usou para *auxiliadora* é a mesma que a Bíblia usa para o próprio Deus quando socorre o Seu povo. E *idônea* quer dizer *que lhe corresponde*, *diante dele*, face a face. Eu não fui feita para andar atrás de Adão. Fui feita para olhar nos olhos dele.
 
+Mas deixe que eu complete o pensamento, querida, porque a Bíblia também diz outra coisa, e eu não quero lhe contar só a metade.
+
+Igual em valor não quer dizer igual em tudo. Deus fez Adão primeiro e lhe deu a ordem sobre a árvore antes de eu existir (Gênesis 2:15-17). Muito tempo depois, Paulo ensinaria que o marido é chamado a ser o cabeça do lar, e que a esposa é chamada a respeitá-lo (Efésios 5:23, 33). Eu entendo hoje que isso não diminui a mulher. É uma ordem que Deus colocou no casamento, assim como colocou ordem em toda a criação.
+
+Repare, porém, em que tipo de cabeça Paulo está falando. O modelo é Cristo, que amou a igreja *"e a si mesmo se entregou por ela"* (Efésios 5:25). A liderança que Deus pede ao marido não é a de quem manda e é servido. É a de quem serve primeiro, protege, se sacrifica e assume a responsabilidade. Naquela tarde no jardim, o que faltou a Adão não foi poder sobre mim. Foi coragem para estar ao meu lado e lembrar a palavra de Deus quando eu precisei.
+
+E o respeito que Deus pede à esposa também não é medo, nem silêncio diante do que é errado. É honrar o marido, apoiá-lo, ajudá-lo a ser o homem que Deus quer, como auxiliadora que corresponde a ele, face a face.
+
+Valor igual, papéis que se completam, e o amor de Cristo como medida para os dois. Era esse o projeto de Deus antes do estrago. E é para esse projeto que Ele quer devolver os casamentos.
+
 Quero lhe contar também como eram as nossas conversas naqueles primeiros dias, porque acho que nelas há um segredo.
 
 Adão e eu falávamos de tudo. Ele me contava o nome que tinha dado a cada animal e por quê. Eu lhe contava o que tinha descoberto naquele dia: uma flor que se fechava à noite, um fruto mais doce perto do rio. Ríamos. Fazíamos perguntas um ao outro. E, sobretudo, ouvíamos.
@@ -1124,7 +1134,7 @@ Amém.
 # Referências bíblicas
 
 - Gênesis 1:27, 31 — homem e mulher à imagem de Deus; tudo era muito bom
-- Gênesis 2:18-25 — a criação da mulher, o poema de Adão e a união do casal
+- Gênesis 2:15-25 — a ordem dada a Adão, a criação da mulher, o poema de Adão e a união do casal
 - Gênesis 3:1-21 — a serpente, o fruto, os dedos apontados, a promessa, as consequências, o nome de Eva e as vestes
 - Gênesis 4:1-26 — Caim e Abel, as ofertas, a advertência de Deus, o luto, a cidade de Caim, Sete e Enos
 - Gênesis 25:22, 28; 33:4 — Esaú e Jacó, o favoritismo e a reconciliação
@@ -1146,7 +1156,7 @@ Amém.
 - 1 Coríntios 10:13; 13:4 — o livramento na tentação; o amor paciente
 - 2 Coríntios 10:5; 11:3 — o pensamento cativo; a mente enganada
 - Gálatas 3:27; 4:4 — revestidos de Cristo; nascido de mulher
-- Efésios 2:10; 4:26, 32; 5:25; 6:4 — feitura de Deus, a ira e o perdão, o amor do marido, criar os filhos
+- Efésios 2:10; 4:26, 32; 5:23, 25, 33; 6:4 — feitura de Deus, a ira e o perdão, o marido como cabeça que ama e se entrega, o respeito da esposa, criar os filhos
 - Filipenses 4:8 — aquilo que deve ocupar o pensamento
 - Colossenses 1:16; 3:13 — tudo foi criado em Cristo; perdoai-vos mutuamente
 - 1 Tessalonicenses 4:13 — a tristeza com esperança

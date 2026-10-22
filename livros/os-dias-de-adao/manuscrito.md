@@ -1187,3 +1187,10 @@ Amém.
 - PIPER, John. *Em Busca de Deus*.
 - STOTT, John. *A Cruz de Cristo*.
 - TOZER, A. W. *À Procura de Deus*.
+
+
+# Da mesma coleção
+
+- *Os dias de Adão* — o primeiro homem, a primeira vergonha e a graça que veio procurá-lo.
+- *Os pensamentos de Eva* — a primeira mulher, as vozes que ela ouviu e a graça que lhe deu um nome novo.
+- *De mulher para mulher* — Eva conta a você a sua história, do primeiro dia à criação dos filhos.
