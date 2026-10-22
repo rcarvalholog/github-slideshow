@@ -28,15 +28,15 @@ Leia sem pressa. O Deus desta história é paciente. Ele foi paciente com Eva, e
 
 # Introdução
 
-O dia estava terminando quando a mulher se sentou à beira do poço, longe das outras.
+Era o horário mais quente do dia quando a mulher chegou ao poço, sozinha, longe das outras.
 
-Não era Eva. Era uma mulher de Samaria, muitos séculos depois, que tinha aprendido a buscar água no horário mais quente para não cruzar com ninguém. Sabia o que diziam dela. Sabia o que pensavam quando ela passava. E, com o tempo, aprendeu a pensar o mesmo sobre si.
+Não era Eva. Era uma mulher de Samaria, muitos séculos depois, que talvez tivesse aprendido a buscar água nesse horário para não cruzar com ninguém. Sabia o que diziam dela. Sabia o que pensavam quando ela passava. E, com o tempo, aprendeu a pensar o mesmo sobre si.
 
 Mas poderia ser Eva. Poderia ser qualquer filha de Eva. Porque essa mulher do poço carregava a mesma coisa que a primeira mulher começou a carregar no jardim: uma voz por dentro que dizia que ela não era suficiente, que estava errada, que precisava se esconder.
 
 Os pensamentos têm um poder estranho. Ninguém os vê. Não aparecem nas fotos, não entram nas conversas, não são postados em lugar nenhum. Mas governam vidas inteiras. Uma mulher pode sorrir a manhã inteira enquanto, por dentro, ouve sem parar que é um fracasso. Pode ser elogiada por todos e, mesmo assim, acreditar que está faltando alguma coisa nela. Pode ser perdoada por Deus e continuar se condenando todos os dias.
 
-A Bíblia leva os pensamentos a sério. Paulo fala em *"levar cativo todo pensamento à obediência de Cristo"* (2 Coríntios 10:5). Fala também de uma mente que precisa ser renovada (Romanos 12:2). E, quando descreve a paz de Deus, diz que ela guarda não só o coração, mas também a mente (Filipenses 4:7).
+A Bíblia leva os pensamentos a sério. Paulo fala em levar cada pensamento cativo a Cristo (2 Coríntios 10:5). Fala também de uma mente que precisa ser renovada (Romanos 12:2). E, quando descreve a paz de Deus, diz que ela guarda não só o coração, mas também a mente (Filipenses 4:7).
 
 A primeira batalha da história humana não foi travada com espadas. Foi travada com uma pergunta. A serpente não empurrou Eva até a árvore; plantou um pensamento na cabeça dela. *"É assim que Deus disse...?"* (Gênesis 3:1). Tudo o que veio depois começou ali, no lugar invisível onde nascem as nossas dúvidas.
 
@@ -46,7 +46,7 @@ A Bíblia não registra esses pensamentos. Registra os fatos, com uma economia q
 
 Mas há algo que não precisamos imaginar: em cada momento da vida de Eva, Deus estava presente. Ele falou com ela quando ela errou. Prometeu a ela uma vitória que nem ela entendia. Deu a ela um nome cheio de vida. E, muitos séculos depois, enviou o Seu Filho, *"nascido de mulher"* (Gálatas 4:4), para alcançar cada pensamento ferido de cada filha de Eva.
 
-Naquela tarde, à beira do poço, a mulher de Samaria encontrou um homem judeu que lhe pediu água. E, antes de a conversa terminar, ela correu para a cidade, deixando o cântaro para trás, dizendo a todos: *"Vinde comigo e vede um homem que me disse tudo quanto tenho feito"* (João 4:29).
+Naquele meio-dia, à beira do poço, a mulher de Samaria encontrou um homem judeu que lhe pediu água. E, antes de a conversa terminar, ela correu para a cidade, deixando o cântaro para trás, dizendo a todos: *"Vinde comigo e vede um homem que me disse tudo quanto tenho feito"* (João 4:29).
 
 Ele sabia tudo sobre ela. Inclusive os pensamentos. E não foi embora.
 
@@ -63,7 +63,7 @@ Foi uma sensação. Calor. Luz atravessando as pálpebras. Um cheiro doce de fol
 
 Ela abriu os olhos devagar.
 
-Diferente de Adão, Eva não foi formada do pó. A Bíblia diz que Deus a construiu a partir de algo que já estava vivo: uma parte do lado do homem. A palavra usada em Gênesis 2:22 é a mesma que se usa para quem levanta uma casa. Deus *edificou* a mulher. Pensou nela com cuidado de arquiteto. Cada detalhe, cada traço, cada capacidade foi colocado ali de propósito.
+Diferente de Adão, Eva não foi formada do pó. A Bíblia diz que Deus a construiu a partir de algo que já estava vivo: uma parte do lado do homem. No hebraico, a palavra usada em Gênesis 2:22 é a mesma que se usa para quem levanta uma casa. Deus, por assim dizer, *edificou* a mulher. Pensou nela com cuidado de arquiteto. Cada detalhe, cada traço, cada capacidade foi colocado ali de propósito.
 
 Imagine o que se passou na mente dela naqueles primeiros instantes. Tudo era novo. O verde das árvores. O som do rio. O peso do próprio corpo. Ela não sabia o nome de nada. Não sabia nem o próprio nome. Não sabia o que se esperava dela, nem se estava fazendo alguma coisa certa ou errada. Só sabia que existia, e que existir era bom.
 
@@ -244,7 +244,7 @@ Não se culpe por isso. Eva, que andava com Deus todos os dias, também caiu nes
 
 Qual é a pergunta que a serpente tem feito a você?
 
-Talvez seja: *Se Deus te amasse, você já estaria casada.* Ou: *Se Ele fosse bom, aquele filho não estaria longe.* Ou: *Olha a vida das outras; Ele deu a elas o que negou a você.*
+Talvez seja: *Se Deus amasse você, você já estaria casada.* Ou: *Se Ele fosse bom, aquele filho não estaria longe.* Ou: *Olha a vida das outras; Ele deu a elas o que negou a você.*
 
 Repare que essas perguntas quase sempre começam com uma meia verdade. A serpente não inventou que havia uma árvore proibida; ela apenas distorceu o motivo. Do mesmo jeito, as suas dores são reais, as suas esperas são reais. A mentira está na explicação: *Deus não se importa*.
 
@@ -303,7 +303,7 @@ O contentamento começa com esse exercício simples: levantar os olhos e contar.
 
 Uma mulher que conta as próprias árvores dificilmente fica obcecada pela árvore da vizinha.
 
-E há mais uma coisa. Eva não comeu sozinha. *Deu também ao marido.* O desejo que nasce da comparação raramente fica só em nós. Ele se espalha pela casa, pelos relacionamentos, pelos filhos. Uma mãe insatisfeita ensina, sem querer, os filhos a serem insatisfeitos. Uma esposa que vive comparando acaba, sem perceber, colocando o marido num concurso que ele nunca vai ganhar. A gratidão também se espalha. Mas é preciso que alguém comece.
+E há mais uma coisa. Eva não comeu sozinha. *Deu também ao marido.* O desejo que nasce da comparação raramente fica só em nós. Ele se espalha pela casa, pelos relacionamentos, pelos filhos. Às vezes, sem perceber, a insatisfação de uma de nós contagia a casa inteira: os filhos aprendem a olhar para o que falta, e o marido sente que está num concurso que nunca vai ganhar. A gratidão também se espalha. Mas é preciso que alguém comece.
 
 * * *
 
@@ -333,15 +333,11 @@ Jesus estava sentado à beira do poço. Pediu-lhe água. E então disse algo que
 
 Jesus não condenou a sede daquela mulher. Ele a reconheceu. E ofereceu a única coisa capaz de satisfazê-la: a Si mesmo.
 
-Eva estendeu a mão para um fruto que prometia plenitude e trouxe vazio. Jesus estende a mão para nós oferecendo o que nenhuma árvore pode dar. Ele é a água viva. Ele é o pão da vida (João 6:35). Tudo aquilo que procuramos nos frutos brilhantes deste mundo, Ele tem, e dá de graça.
+Eva provou um fruto que prometia plenitude e trouxe vazio. Jesus oferece o que nenhuma árvore pode dar. Ele é a água viva. Ele é o pão da vida (João 6:35). Tudo aquilo que procuramos nos frutos brilhantes deste mundo, Ele tem, e dá de graça.
 
 * * *
 
 **Aplicação**
-
-Talvez seja útil, também, perceber em que momentos a comparação fica mais forte. Muitas mulheres notam que ela aparece quando estão cansadas, sozinhas, ou depois de passar muito tempo diante de uma tela. Saber disso não é fraqueza; é sabedoria. Eva não sabia que estava vulnerável naquela tarde. Você pode saber.
-
-Nos dias em que os olhos estiverem mais famintos, proteja-se com carinho. Desligue o que precisa ser desligado. Procure a companhia de quem ajuda você a enxergar as árvores livres.
 
 Para onde os seus olhos têm ido?
 
@@ -353,7 +349,11 @@ Mas hoje há um convite: treinar os olhos de novo. Antes de dormir, faça uma li
 
 E quando a sede apertar, quando o fruto do outro lado parecer irresistível, lembre-se do poço. Há uma água que não acaba. Há uma Pessoa que conhece a sua sede e não a despreza.
 
-C. S. Lewis escreveu que o nosso problema não é desejar demais, mas desejar pouco, contentando-nos com frutos pequenos quando um banquete nos é oferecido:
+Talvez seja útil, também, perceber em que momentos a comparação fica mais forte. Muitas mulheres notam que ela aparece quando estão cansadas, sozinhas, ou depois de passar muito tempo diante de uma tela. Saber disso não é fraqueza; é sabedoria. Eva não sabia que estava vulnerável naquela tarde. Você pode saber.
+
+Nos dias em que os olhos estiverem mais famintos, proteja-se com carinho. Desligue o que precisa ser desligado. Procure a companhia de quem ajuda você a enxergar as árvores livres.
+
+C. S. Lewis escreveu que o nosso problema não é desejar demais, mas desejar pouco, como uma criança que prefere continuar fazendo bolinhos de lama porque não consegue imaginar o que é um feriado na praia:
 
 *"Somos criaturas mornas, brincando com bebida, sexo e ambição, quando uma alegria infinita nos é oferecida... Contentamo-nos fácil demais."* — C. S. Lewis, *O Peso da Glória*
 
@@ -374,7 +374,7 @@ Não o seu nome; ela ainda não tinha nome. Ouviu Adão dizer *a mulher*. E o je
 
 Ela olhou para ele. Adão não olhava de volta. Olhava para Deus, com o braço estendido na direção dela, como quem aponta para a causa de um acidente.
 
-Há momentos que ficam gravados para sempre na memória de uma mulher. Aquele foi o primeiro da história. Algumas horas antes, aquele mesmo homem tinha cantado ao vê-la pela primeira vez: *osso dos meus ossos, carne da minha carne*. Agora, diante do primeiro problema, ele a entregava.
+Há momentos que ficam gravados para sempre na memória de uma mulher. Aquele foi o primeiro da história. Pouco tempo antes, aquele mesmo homem tinha cantado ao vê-la pela primeira vez: *osso dos meus ossos, carne da minha carne*. Agora, diante do primeiro problema, ele a entregava.
 
 Imagine o que passou pela cabeça de Eva. Primeiro, a dor da traição. Depois, talvez, uma raiva quente subindo pelo peito. *Mas você estava lá. Você ouviu tudo. Você não disse nada. E agora a culpa é só minha?* E, logo atrás da raiva, algo ainda mais doloroso: a dúvida. *E se ele estiver certo? E se a culpa for mesmo toda minha? E se eu for a causa de tudo isso?*
 
@@ -462,7 +462,7 @@ O que você não precisa fazer é continuar sendo a promotora da sua própria ac
 
 John Stott, ao escrever sobre a cruz, lembrou que ela revela ao mesmo tempo a seriedade do nosso pecado e a grandeza do amor de Deus:
 
-*"Antes de começarmos a ver a cruz como algo feito em nosso favor, precisamos vê-la como algo feito por nós."* — John Stott, *A Cruz de Cristo*
+*"Antes de começarmos a ver a cruz como algo feito em nosso favor, precisamos vê-la como algo que nós fizemos."* — John Stott, *A Cruz de Cristo*
 
 Numa parte da frase, a cruz é algo que *Ele fez em nosso favor*. Na outra, é algo que *nós causamos*. Entre as duas cabe toda a honestidade e todo o alívio de que uma alma acusada precisa.
 
@@ -475,7 +475,7 @@ Numa parte da frase, a cruz é algo que *Ele fez em nosso favor*. Na outra, é a
 
 Eva esperava ouvir a palavra *morte*.
 
-Estava de pé, ao lado de Adão, as mãos frias, os olhos baixos. A serpente estava ali também, enrolada no chão, perto dos pés dela. O silêncio do jardim era tão grande que Eva conseguia ouvir o próprio coração. Era o fim, ela pensou. Deus tinha avisado: *no dia em que dele comeres, certamente morrerás*. Eles tinham comido. Agora viria a sentença.
+Estava de pé, ao lado de Adão, as mãos frias, os olhos baixos. A serpente estava ali também, enrolada no chão, perto dos pés dela. O silêncio do jardim era tão grande que Eva conseguia ouvir o próprio coração. Era o fim, ela pensou. Deus tinha avisado: *no dia em que dela comeres, certamente morrerás*. Eles tinham comido. Agora viria a sentença.
 
 Deus começou a falar. Mas não com ela.
 
@@ -557,10 +557,6 @@ E olhe para Jesus. Ele é a prova de que Deus cumpre o que diz, mesmo quando dem
 
 **Aplicação**
 
-Repare também em como Deus tratou Eva naquela tarde: Ele não deixou que o erro dela fosse a última coisa dita sobre ela. A promessa veio primeiro, antes das consequências.
-
-Pense agora em alguém que você conhece e que errou. Uma filha, uma amiga, uma irmã da igreja. Talvez você possa fazer com ela o que Deus fez com Eva: lembrá-la da promessa antes de lembrá-la do erro. A graça que recebemos se multiplica quando é passada adiante.
-
 Talvez você se sinta como Eva no momento em que esperava ouvir a palavra *morte*. Talvez tenha certeza de que, depois do que fez, depois do que deixou fazerem com você, depois de tudo o que deu errado, não há mais futuro.
 
 Ouça de novo a ordem de Gênesis 3: antes da consequência, a promessa. Deus não começa pela sua sentença. Começa pela vitória de Cristo.
@@ -568,6 +564,10 @@ Ouça de novo a ordem de Gênesis 3: antes da consequência, a promessa. Deus n�
 Isso não significa que as consequências não existam. Eva sentiria dores, sairia do jardim, choraria por filhos. Mas ela viveria tudo isso carregando uma brasa no coração: *o descendente da mulher*. E você também pode viver as suas consequências com uma promessa acesa por dentro.
 
 Qual é a promessa de Deus que você precisa segurar hoje? Escolha uma. Escreva num papel e coloque onde você possa ver. Leia de manhã e à noite. Não porque ela vá mudar tudo de uma vez, mas porque ela vai lembrar você, nas noites frias, de que a história não termina na queda.
+
+Repare também em como Deus tratou Eva naquela tarde: Ele não deixou que o erro dela fosse a última coisa dita sobre ela. A promessa veio primeiro, antes das consequências.
+
+Pense agora em alguém que você conhece e que errou. Uma filha, uma amiga, uma irmã da igreja. Talvez você possa fazer com ela o que Deus fez com Eva: lembrá-la da promessa antes de lembrá-la do erro. A graça que recebemos se multiplica quando é passada adiante.
 
 * * *
 
@@ -594,9 +594,9 @@ Ela ainda não sabia o que era gravidez. Não sabia o que era dar à luz. Não c
 
 E entendeu outra coisa, talvez mais dolorosa: que a relação com Adão também mudaria.
 
-Algumas horas antes, eles andavam lado a lado pelo jardim, sem vergonha, sem disputa, sem medo. Agora Deus falava de um desejo que não seria plenamente correspondido e de um governo que pesaria sobre ela. Aquilo que deveria ser parceria se tornaria, muitas vezes, tensão. Aquilo que deveria ser abrigo se tornaria, às vezes, ferida.
+Pouco tempo antes, eles andavam lado a lado pelo jardim, sem vergonha, sem disputa, sem medo. Agora Deus falava de um desejo que não seria plenamente correspondido e de um governo que pesaria sobre ela. Aquilo que deveria ser parceria se tornaria, muitas vezes, tensão. Aquilo que deveria ser abrigo se tornaria, às vezes, ferida.
 
-Os anos mostrariam o que essas palavras significavam. Eva conheceria a dor do parto, sozinha num abrigo improvisado a leste do Éden, sem ninguém que já tivesse passado por aquilo para lhe dizer que ia dar tudo certo. Conheceria as noites em que esperou de Adão um carinho que não veio. Conheceria o cansaço de cuidar de filhos pequenos num mundo onde a terra produzia espinhos. Conheceria a solidão que pode existir até dentro de um casamento.
+Os anos mostrariam o que essas palavras significavam. Eva conheceria a dor do parto, num abrigo improvisado a leste do Éden, sem outra mulher por perto, sem ninguém que já tivesse passado por aquilo para lhe dizer que ia dar tudo certo. Conheceria as noites em que esperou de Adão um carinho que não veio. Conheceria o cansaço de cuidar de filhos pequenos num mundo onde a terra produzia espinhos. Conheceria a solidão que pode existir até dentro de um casamento.
 
 Imagine os pensamentos dela numa dessas noites. *Era para ser diferente. Eu me lembro de quando era diferente.* E talvez, pior ainda: *a culpa é minha. Eu mereço isso.*
 
@@ -606,7 +606,7 @@ Imagine Eva, alguns anos depois, num desses dias difíceis.
 
 O sol nasceu quente. Os meninos ainda são pequenos e choram de fome. Adão saiu cedo para o campo e voltará tarde, cansado, calado. Eva passa o dia buscando água, cuidando do fogo, separando sementes, tentando acalmar as crianças. O corpo dói. As mãos estão ásperas. Ninguém agradece.
 
-À noite, quando Adão chega, ela espera uma palavra. Um *obrigado*. Um *como foi o seu dia*. Um carinho no rosto, como no tempo do jardim. Mas ele come em silêncio e dorme logo.
+À noite, quando Adão chega, ela espera uma palavra. Um *obrigado*. Um *como foi o seu dia*. Um carinho no rosto, como no tempo do jardim. Mas ele come em silêncio e dorme logo. Talvez ele também volte esmagado pelos espinhos do dia, sem palavras para dar.
 
 Eva fica acordada no escuro. E os pensamentos vêm.
 
@@ -614,7 +614,7 @@ Eva fica acordada no escuro. E os pensamentos vêm.
 
 Muitas mulheres conhecem esse tipo de noite. O cansaço que ninguém vê. O trabalho que não aparece. A sensação de dar tudo e receber pouco. E, junto com o cansaço, a culpa por estar cansada, como se sentir o peso fosse uma falha de fé.
 
-Mas sentir o peso não é falta de fé. É ser humana num mundo a leste do Éden. Jesus mesmo, cansado da viagem, sentou-se à beira de um poço (João 4:6). Dormiu num barco no meio da tempestade (Marcos 4:38). Retirava-se para lugares desertos para descansar e orar (Lucas 5:16). Ele não tinha vergonha do cansaço. E não quer que você tenha.
+Mas sentir o peso não é falta de fé. É ser humana num mundo a leste do Éden. Jesus mesmo, cansado da viagem, sentou-se à beira de um poço (João 4:6). Dormiu num barco no meio da tempestade (Marcos 4:38). Retirava-se para lugares solitários para orar (Lucas 5:16). Ele não tinha vergonha do cansaço. E não quer que você tenha.
 
 Ele disse: *"Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos aliviarei"* (Mateus 11:28). Não disse *vinde quando estiverem fortes*. Disse *vinde cansados*. O convite é exatamente para a mulher que está acordada no escuro, com o corpo doendo e a cabeça cheia de cobranças.
 
@@ -630,7 +630,7 @@ E Paulo continua: *"E não somente ela, mas também nós, que temos as primícia
 
 O próprio Espírito Santo entra nessa dor conosco: *"o mesmo Espírito intercede por nós sobremaneira, com gemidos inexprimíveis"* (Romanos 8:26). Quando não temos palavras para orar, Ele geme por nós.
 
-E quanto à relação ferida entre homem e mulher, a Bíblia aponta para a restauração em Cristo. Paulo escreve: *"não pode haver judeu nem grego; nem escravo nem liberto; nem homem nem mulher; porque todos vós sois um em Cristo Jesus"* (Gálatas 3:28). E ensina aos maridos que amem as suas mulheres *"como também Cristo amou a igreja e a si mesmo se entregou por ela"* (Efésios 5:25). O governo pesado de Gênesis 3:16 é substituído pelo amor que se entrega.
+E quanto à relação ferida entre homem e mulher, a Bíblia aponta para a restauração em Cristo. Em Cristo, homem e mulher têm a mesma dignidade e a mesma herança: *"não pode haver judeu nem grego; nem escravo nem liberto; nem homem nem mulher; porque todos vós sois um em Cristo Jesus"* (Gálatas 3:28). E, sobre o casamento, Paulo ensina aos maridos que amem as suas mulheres *"como também Cristo amou a igreja e a si mesmo se entregou por ela"* (Efésios 5:25). Ao peso descrito em Gênesis 3:16, o evangelho responde com o amor que se entrega.
 
 * * *
 
@@ -640,19 +640,15 @@ Na noite antes de morrer, Jesus usou uma imagem que toda mãe entende. Os discí
 
 *"A mulher, quando está para dar à luz, tem tristeza, porque a sua hora é chegada; mas, depois de nascido o menino, já não se lembra da aflição, pelo prazer que tem de ter nascido ao mundo um homem"* (João 16:21).
 
-Jesus estava falando da Sua morte e ressurreição. A dor da cruz seria como a dor de um parto: intensa, real, mas não a palavra final. Do outro lado viria a alegria.
+Jesus falava da tristeza dos discípulos diante da Sua morte e da alegria da ressurreição. Aquela dor seria como a dor de um parto: intensa, real, mas não a palavra final. Do outro lado viria a alegria.
 
-E repare em como Jesus tratava as mulheres. Num tempo em que muitos mestres nem conversavam com mulheres em público, Ele as ensinava, as curava, as defendia, as chamava de filhas. Deixou que uma mulher se sentasse aos Seus pés como discípula (Lucas 10:39). Apareceu primeiro a mulheres depois de ressuscitar. Em cada gesto, Jesus desfazia um pouco da maldição de Gênesis 3:16.
+E repare em como Jesus tratava as mulheres. Num tempo em que muitos mestres nem conversavam com mulheres em público, Ele as ensinava, as curava, as defendia, as chamava de filhas. Deixou que uma mulher se sentasse aos Seus pés como discípula (Lucas 10:39). Apareceu primeiro a mulheres depois de ressuscitar. Em cada gesto, Jesus desfazia um pouco das consequências de Gênesis 3:16.
 
 Ele mesmo passou pela dor maior, para que a nossa dor tivesse um fim. E prometeu: *"a vossa tristeza se converterá em alegria"* (João 16:20).
 
 * * *
 
 **Aplicação**
-
-Talvez ajude dizer em voz alta, diante de Deus, o que você está sentindo, sem enfeitar. Muitas mulheres aprenderam a orar só com palavras bonitas e conformadas, e acham que reclamar com Deus é falta de respeito. Mas os salmos estão cheios de gente reclamando com Deus, chorando diante d'Ele, perguntando *até quando*. Deus prefere a sua verdade à sua aparência de força.
-
-Diga a Ele: *estou cansada. Está doendo. Eu esperava outra coisa.* E depois fique em silêncio um pouco. Às vezes, a primeira consolação de Deus é simplesmente a sensação de ter sido ouvida.
 
 Talvez você esteja em meio a dores agora. Dores do corpo, que nenhum exame explica. Dores de um parto difícil, ou da espera por um filho que não veio. Dores de um casamento em que você deseja ser amada e se sente governada, ignorada, sozinha.
 
@@ -661,6 +657,10 @@ Primeiro, ouça isto: a sua dor não é castigo. Não é Deus cobrando de você 
 Segundo: a sua dor não é inútil. Ela pode ser um gemido de parto, à espera de algo novo que Deus está fazendo, mesmo quando você não consegue ver.
 
 Terceiro: você não precisa gemer sozinha. O Espírito geme com você. E Deus colocou a igreja no mundo para que ninguém precise carregar a dor em silêncio. Procure alguém de confiança. Se a dor envolve violência ou abuso, procure ajuda imediatamente; isso nunca é a vontade de Deus para você.
+
+Talvez ajude dizer em voz alta, diante de Deus, o que você está sentindo, sem enfeitar. Muitas mulheres aprenderam a orar só com palavras bonitas e conformadas, e acham que reclamar com Deus é falta de respeito. Mas os salmos estão cheios de gente reclamando com Deus, chorando diante d'Ele, perguntando *até quando*. Deus prefere a sua verdade à sua aparência de força.
+
+Diga a Ele: *estou cansada. Está doendo. Eu esperava outra coisa.* E depois fique em silêncio um pouco. Às vezes, a primeira consolação de Deus é simplesmente a sensação de ter sido ouvida.
 
 C. S. Lewis escreveu, sobre a busca humana por felicidade longe de Deus:
 
@@ -707,7 +707,7 @@ E então, logo depois, no versículo seguinte, Deus fez algo com as próprias m�
 
 Eva viu Deus se aproximar. Viu as mãos d'Ele desamarrarem com cuidado as folhas de figueira, já quebradiças, que ela tinha costurado com tanto medo. Por um instante, ela ficou exposta diante d'Ele. E então sentiu algo quente e macio envolvendo os ombros. Uma veste de verdade. Feita por Ele. Ajustada ao corpo dela como uma mãe ajusta a roupa de uma filha antes de sair de casa.
 
-Um nome novo. Uma roupa nova. No mesmo dia da queda.
+Um nome novo. Uma roupa nova. Logo depois da queda.
 
 Muitas mulheres passam a vida inteira sendo chamadas pelo nome do seu pior momento. *A que se divorciou. A que perdeu o filho. A que foi abusada. A que errou. A que não deu conta.* Elas mesmas acabam se chamando assim, em pensamento, todos os dias.
 
@@ -735,7 +735,7 @@ Na Bíblia, os nomes carregam identidade e destino. Quando Deus muda o nome de a
 
 O profeta Isaías anunciou que Deus faria o mesmo com o Seu povo ferido: *"Nunca mais te chamarão Desamparada, nem a tua terra se denominará jamais Desolada; mas chamar-te-ão Minha-Delícia"* (Isaías 62:4). De *Desamparada* para *Minha-Delícia*. É a mudança de nome que Deus quer fazer em cada coração.
 
-E no último livro da Bíblia, Jesus promete aos que vencem: *"darei uma pedrinha branca, e sobre essa pedrinha escrito um nome novo, o qual ninguém conhece, exceto aquele que o recebe"* (Apocalipse 2:17). Um nome que só você e Deus conhecem. Uma identidade que nenhum erro do passado pode apagar.
+E no último livro da Bíblia, Jesus promete aos que vencem: *"lhe darei uma pedrinha branca, e sobre essa pedrinha escrito um nome novo, o qual ninguém conhece, exceto aquele que o recebe"* (Apocalipse 2:17). Um nome que só você e Deus conhecem. Uma identidade que nenhum erro do passado pode apagar.
 
 Paulo resume isso numa frase: *"se alguém está em Cristo, é nova criatura; as coisas antigas já passaram; eis que se fizeram novas"* (2 Coríntios 5:17).
 
@@ -747,7 +747,7 @@ E a veste que Deus fez para Eva antecipa outra veste. Isaías canta: *"me cobriu
 
 No meio de uma multidão que apertava Jesus por todos os lados, havia uma mulher que ninguém via.
 
-Fazia doze anos que ela sangrava. Doze anos de médicos, de dinheiro gasto, de tratamentos que só pioravam as coisas (Marcos 5:25-26). Pela lei da época, o sangramento a tornava impura. Ela não podia tocar em ninguém. Não podia entrar no templo. Vivia à margem, chamada pelo nome da sua doença.
+Fazia doze anos que ela sangrava. Doze anos de médicos, de dinheiro gasto, de tratamentos que só pioravam as coisas (Marcos 5:25-26). Pela lei da época, o sangramento a tornava impura. Quem ela tocasse também ficava impuro. Não podia entrar no templo. Vivia à margem, chamada pelo nome da sua doença.
 
 Ela pensou consigo mesma: *"Se eu apenas lhe tocar as vestes, ficarei curada"* (Marcos 5:28). Um pensamento cheio de fé e de medo ao mesmo tempo. Ela não ousava pedir. Só queria tocar e desaparecer.
 
@@ -755,7 +755,7 @@ Tocou. E foi curada no mesmo instante.
 
 Mas Jesus parou. Olhou em volta. *"Quem me tocou nas vestes?"* (Marcos 5:30). A mulher, tremendo, caiu aos pés d'Ele e contou toda a verdade.
 
-E Jesus não a repreendeu. Chamou-a por um nome que ninguém usava para ela havia doze anos:
+E Jesus não a repreendeu. Chamou-a por um nome que talvez ninguém usasse para ela havia muito tempo:
 
 *"Filha, a tua fé te salvou; vai-te em paz e fica livre do teu mal"* (Marcos 5:34).
 
@@ -769,10 +769,6 @@ Ela tinha chegado como *a mulher impura*. Saiu como *filha*. Jesus fez com ela o
 
 **Aplicação**
 
-Lembre-se também de que o nome novo não depende de como você se sente hoje. Eva recebeu o nome *Vida* num dia em que, por dentro, tudo nela devia dizer *morte*. Ela não sentiu primeiro e depois recebeu o nome. Recebeu o nome, e com o tempo foi aprendendo a viver de acordo com ele.
-
-Você também pode começar a viver como filha antes de se sentir filha. Os sentimentos costumam chegar depois, devagar, como o dia que clareia aos poucos.
-
 Por qual nome você tem se chamado?
 
 Pense nas palavras que você usa para si mesma em pensamento, quando ninguém está ouvindo. *Burra. Fracassada. Feia. Culpada. Abandonada. Suja.* Muitas vezes, esses nomes foram dados por outras pessoas. Outras vezes, foram escolhidos por nós mesmas, depois de um erro ou de uma dor.
@@ -782,6 +778,10 @@ Hoje, Jesus quer chamar você por outro nome.
 Escreva num papel o nome que você tem usado para si mesma. Depois, ao lado, escreva o nome que Deus dá a você: *filha*, *amada*, *perdoada*, *nova criatura*, *minha-delícia*. Leia os dois. E então rasgue o primeiro.
 
 Não é mágica. É uma forma concreta de concordar com Deus. A mente se renova assim, uma palavra trocada de cada vez.
+
+Lembre-se também de que o nome novo não depende de como você se sente hoje. Eva recebeu o nome *Vida* num dia em que, por dentro, tudo nela devia dizer *morte*. Ela não sentiu primeiro e depois recebeu o nome. Recebeu o nome, e com o tempo foi aprendendo a viver de acordo com ele.
+
+Você também pode começar a viver como filha antes de se sentir filha. Os sentimentos costumam chegar depois, devagar, como o dia que clareia aos poucos.
 
 Tim Keller resumiu, numa frase, o que significa ser renomeada pela graça:
 
@@ -844,7 +844,7 @@ Jeremias faz um contraste forte entre duas formas de esperar: *"Maldito o homem 
 
 Isso não significa que não devemos amar ou confiar nas pessoas. Significa que elas não foram feitas para ocupar o lugar de Deus no nosso coração. Quando colocamos sobre alguém o peso de ser o nosso salvador, acabamos esmagando essa pessoa e a nós mesmas.
 
-E a Bíblia mostra mulheres que aprenderam a esperar em Deus por muito tempo. Ana, a profetisa, ficou viúva cedo e passou décadas no templo, *"adorando noite e dia em jejuns e orações"* (Lucas 2:37). Ela esperou a vida inteira. E, já com oitenta e quatro anos, viu com os próprios olhos o bebê que era a resposta de todas as esperas.
+E a Bíblia mostra mulheres que aprenderam a esperar em Deus por muito tempo. Ana, a profetisa, ficou viúva cedo e passou décadas no templo, onde *"adorava noite e dia em jejuns e orações"* (Lucas 2:37). Ela esperou a vida inteira. E, já em idade muito avançada (Lucas 2:36), viu com os próprios olhos o bebê que era a resposta de todas as esperas.
 
 O profeta Isaías descreve a paz de quem coloca a esperança no lugar certo: *"Tu, SENHOR, conservarás em perfeita paz aquele cujo propósito é firme; porque ele confia em ti"* (Isaías 26:3). Perfeita paz. Não porque os filhos sempre vão dar certo, nem porque o marido sempre vai corresponder, mas porque a mente está firme em Alguém que não muda.
 
@@ -862,15 +862,11 @@ Eva olhou para o seu primeiro filho e pensou, talvez, que era ele. Não era. Ana
 
 Jesus Cristo é o único Filho que pode carregar o peso de todas as nossas esperanças sem ser esmagado por elas. Ele é o único que não decepciona. *"Ora, a esperança não confunde"* (Romanos 5:5), escreve Paulo, porque ela está ancorada no amor de Deus derramado em nós.
 
-E Maria, a mãe de Jesus, nos ensina outra coisa sobre os pensamentos de uma mãe. Diante de tudo o que via e ouvia sobre o Filho, *"Maria, porém, guardava todas estas palavras, meditando-as no coração"* (Lucas 2:19). Ela não colocou sobre Jesus as suas próprias expectativas. Guardou as palavras de Deus e esperou que Ele as cumprisse no tempo d'Ele.
+E Maria, a mãe de Jesus, nos ensina outra coisa sobre os pensamentos de uma mãe. Diante de tudo o que via e ouvia sobre o Filho, *"Maria, porém, guardava todas estas palavras, meditando-as no coração"* (Lucas 2:19). Mesmo sem entender tudo, ela aprendeu a guardar as palavras de Deus e a esperar que Ele as cumprisse no tempo d'Ele.
 
 * * *
 
 **Aplicação**
-
-Pense também nas expectativas que você colocou sobre si mesma. Muitas mulheres não colocam o peso só sobre os outros, mas sobre o próprio desempenho: ser a mãe perfeita, a esposa perfeita, a profissional perfeita, a serva perfeita na igreja. E, quando falham em alguma dessas áreas, sentem que falharam em tudo.
-
-Só existe um ser humano perfeito, e Ele já carregou o peso por você. Você pode ser uma mãe que erra, uma esposa que se cansa, uma mulher que às vezes não dá conta. E continuar sendo amada.
 
 Sobre quem você tem colocado o peso de ser a sua esperança?
 
@@ -881,6 +877,10 @@ Hoje, há um convite para tirar esse peso dos ombros deles e colocá-lo onde ele
 Faça uma oração simples, mencionando o nome de cada pessoa: *Senhor, eu amo fulano, mas ele não é o meu salvador. Tu és. Eu tiro dele o peso que não é dele e coloco em Ti.* Talvez você precise fazer essa oração muitas vezes. Tudo bem. Deus é paciente.
 
 E você vai descobrir algo surpreendente: quando as pessoas que amamos deixam de ser a nossa esperança, conseguimos amá-las melhor.
+
+Pense também nas expectativas que você colocou sobre si mesma. Muitas mulheres não colocam o peso só sobre os outros, mas sobre o próprio desempenho: ser a mãe perfeita, a esposa perfeita, a profissional perfeita, a serva perfeita na igreja. E, quando falham em alguma dessas áreas, sentem que falharam em tudo.
+
+Só existe um ser humano perfeito, e Ele já carregou o peso por você. Você pode ser uma mãe que erra, uma esposa que se cansa, uma mulher que às vezes não dá conta. E continuar sendo amada.
 
 A. W. Tozer escreveu sobre a liberdade de quem tem o próprio Deus como tesouro:
 
@@ -951,7 +951,7 @@ E Eclesiastes lembra que há *"tempo de chorar e tempo de rir; tempo de prantear
 
 Quando Jesus era bebê, um velho chamado Simeão o tomou nos braços no templo, abençoou-o e depois disse a Maria uma frase estranha: *"também uma espada traspassará a tua própria alma"* (Lucas 2:35).
 
-Trinta e três anos depois, Maria entendeu.
+Uns trinta anos depois, Maria entendeu.
 
 Ela estava de pé junto à cruz (João 19:25). Viu o filho que carregou no ventre, que amamentou, que ensinou a andar, pregado num madeiro, morrendo. Nenhuma mãe deveria ver isso. Ela viu.
 
@@ -981,9 +981,9 @@ Terceiro: não fique sozinha. Eva não tinha outras mães com quem chorar. Você
 
 Corrie ten Boom, que perdeu o pai numa prisão nazista e a irmã no campo de concentração de Ravensbrück, guardou para sempre as palavras que a irmã, Betsie, lhe disse pouco antes de morrer:
 
-*"Não há poço tão profundo que o amor de Deus não seja mais profundo ainda."* — Corrie ten Boom, *O Refúgio Secreto*
+*"Não há abismo tão profundo que Ele não seja mais profundo ainda."* — Corrie ten Boom, *O Refúgio Secreto*
 
-Eva desceu ao poço mais fundo que uma mãe pode descer. E o amor de Deus estava lá, mais fundo ainda.
+Eva desceu ao abismo mais fundo que uma mãe pode descer. E Deus estava lá, mais fundo ainda.
 
 > "Perto está o SENHOR dos que têm o coração quebrantado e salva os de espírito oprimido." — Salmos 34:18
 
@@ -994,11 +994,11 @@ Eva desceu ao poço mais fundo que uma mãe pode descer. E o amor de Deus estava
 
 Ninguém sabe quanto tempo passou.
 
-Pode ter sido um ano. Podem ter sido muitos. A Bíblia não conta. Mas sabemos que, entre a morte de Abel e o nascimento de Sete, houve um tempo de silêncio na vida de Eva. Um tempo em que os dias passavam sem cor. Em que ela fazia as coisas porque precisavam ser feitas, mas sem vontade. Em que a mesa continuava com dois lugares vazios.
+Pode ter sido um ano. Podem ter sido muitos. A Bíblia não conta. Mas podemos imaginar que, entre a morte de Abel e o nascimento de Sete, houve um tempo de silêncio na vida de Eva. Um tempo em que os dias passavam sem cor. Em que ela fazia as coisas porque precisavam ser feitas, mas sem vontade. Em que a mesa continuava com dois lugares vazios.
 
 Imagine as manhãs de Eva nesse tempo. Ela acorda antes de Adão. Fica um tempo deitada, olhando o teto de galhos, sem coragem de levantar. Pensa em Abel. Pensa em Caim, em algum lugar ao oriente, longe. Pensa no jardim, que ela nunca mais viu. E, talvez, nos dias mais escuros, pense que Deus esqueceu a promessa.
 
-*O descendente da mulher.* Onde ele estava agora? Abel, que talvez pudesse ser, estava morto. Caim, que ela um dia pensou que fosse, tinha se tornado assassino. A linhagem da promessa parecia ter sido cortada pela raiz.
+*O descendente da mulher.* Onde ele estava agora? Abel, que talvez pudesse ser, estava morto. Caim, que talvez ela tenha pensado ser, tinha se tornado assassino. A linhagem da promessa parecia ter sido cortada pela raiz.
 
 Os pensamentos de uma mulher em luto têm uma lógica cruel. *Acabou. Não há mais nada para mim. Deus desistiu.*
 
@@ -1022,7 +1022,7 @@ Repare em cada palavra.
 
 Ela deu ao menino o nome de Sete, que soa como *concedido*, *colocado no lugar*. Não para substituir Abel; nenhum filho substitui outro. Mas para lembrar que Deus coloca vida onde a morte tinha deixado um vazio.
 
-Desta vez, Eva não disse *adquiri*. Com Caim, ela tinha falado como quem conquista. Com Sete, falou como quem recebe. Algo tinha mudado nos pensamentos dela. A mulher que um dia estendeu a mão para tomar o fruto agora abria as mãos para receber um presente.
+Desta vez, Eva não disse *adquiri*. Com Caim, ela tinha dito *adquiri*, ainda que com o auxílio do Senhor. Com Sete, disse apenas *concedeu*. Algo tinha mudado nos pensamentos dela: agora ela falava como quem recebe um presente.
 
 E a Bíblia acrescenta um detalhe que fecha o capítulo de Eva como uma janela se abrindo: *"A Sete nasceu-lhe também um filho, ao qual pôs o nome de Enos; daí se começou a invocar o nome do SENHOR"* (Gênesis 4:26).
 
@@ -1044,7 +1044,7 @@ Paulo nos lembra que nenhuma promessa de Deus fica sem cumprimento: *"Porque qua
 
 E Paulo, olhando para a nossa mente cansada de tantas perdas, nos convida a uma transformação que acontece de dentro para fora: *"E não vos conformeis com este século, mas transformai-vos pela renovação da vossa mente, para que experimenteis qual seja a boa, agradável e perfeita vontade de Deus"* (Romanos 12:2).
 
-A renovação da mente é o que aconteceu com Eva entre Caim e Sete. Ela começou falando como quem conquista e terminou falando como quem recebe. Os mesmos lábios, os mesmos braços, a mesma mulher. Mas pensamentos novos. Deus não apenas mudou as circunstâncias dela; mudou a forma como ela olhava para a vida.
+A renovação da mente é o que aconteceu com Eva entre Caim e Sete. Ela começou dizendo *adquiri* e terminou dizendo *concedeu*. Os mesmos lábios, os mesmos braços, a mesma mulher. Mas pensamentos novos. Deus não apenas mudou as circunstâncias dela; mudou a forma como ela olhava para a vida.
 
 * * *
 
@@ -1080,7 +1080,7 @@ Jesus Cristo é o Jardineiro que voltou ao jardim para chamar as filhas de Eva p
 
 **Aplicação**
 
-Talvez você esteja no tempo de silêncio. Entre o Abel e o Sete. Depois da perda e antes do recomeço. Talvez as manhãs não tenham cor, e você acorde sem coragem de levantar.
+Talvez você esteja no tempo de silêncio. Entre Abel e Sete. Depois da perda e antes do recomeço. Talvez as manhãs não tenham cor, e você acorde sem coragem de levantar.
 
 A história de Eva não promete que tudo vai voltar a ser como era. Abel não voltou. Caim não voltou. O jardim não voltou. Mas ela promete que Deus não esqueceu. Que a promessa continua. Que Ele sabe colocar vida onde a morte deixou um vazio.
 
@@ -1103,9 +1103,9 @@ Enquanto escrevia este livro, pensei muitas vezes nas mulheres que conheço. Na 
 
 Talvez você tenha se reconhecido em Eva em algum momento destas páginas. Talvez na comparação, olhando o fruto do outro lado. Talvez na acusação, ouvindo alguém apontar para você. Talvez na dor, no parto, no casamento, no corpo. Talvez no luto, diante de um lugar vazio na mesa.
 
-Se foi assim, quero lhe dizer uma coisa simples: você não está sozinha nisso. Nunca esteve.
+Se foi assim, quero lhe dizer uma coisa simples: você não está só nisso. Nunca esteve.
 
-E quero lhe dizer outra, ainda mais importante: os seus pensamentos não são a palavra final sobre você. Eles fazem barulho, eu sei. Às vezes falam tão alto que parecem a própria verdade. Mas há uma voz mais antiga, mais mansa e mais firme do que todas elas. É a voz que chamou Eva de *vida* no pior dia da sua história. É a voz que chamou de *filha* uma mulher que ninguém tocava havia doze anos. É a voz que disse *Maria* num jardim, numa manhã de domingo.
+E quero lhe dizer outra, ainda mais importante: os seus pensamentos não são a palavra final sobre você. Eles fazem barulho, eu sei. Às vezes falam tão alto que parecem a própria verdade. Mas há uma voz mais antiga, mais mansa e mais firme do que todas elas. É a voz que chamou Eva de *vida* no pior dia da sua história. É a voz que chamou de *filha* uma mulher que sofria havia doze anos. É a voz que disse *Maria* num jardim, numa manhã de domingo.
 
 Essa voz conhece o seu nome.
 
@@ -1119,9 +1119,9 @@ o autor
 
 # Conclusão
 
-O dia estava terminando quando a mulher se sentou à beira do poço, longe das outras.
+Era o horário mais quente do dia quando a mulher chegou ao poço, sozinha, longe das outras.
 
-Começamos este livro com ela: a mulher de Samaria, que ia buscar água no horário mais quente para não ser vista, carregando por dentro a mesma voz que Eva começou a ouvir no jardim. *Você não é suficiente. Você está errada. Esconda-se.*
+Começamos este livro com ela: a mulher de Samaria, que talvez fosse buscar água naquele horário para não ser vista, carregando por dentro a mesma voz que Eva começou a ouvir no jardim. *Você não é suficiente. Você está errada. Esconda-se.*
 
 E terminamos com outra mulher, num outro jardim, ouvindo o próprio nome na voz do Ressuscitado.
 
@@ -1163,7 +1163,7 @@ Senhor Jesus,
 
 eu venho a Ti com os meus pensamentos, os bons e os que me ferem. Por muito tempo ouvi vozes que diziam que eu não era suficiente, que a culpa era toda minha, que Tu tinhas desistido de mim. Hoje me apresento a Ti assim como sou.
 
-Obrigada por esta leitura. Obrigada porque, através dos pensamentos de Eva, eu vi o que ainda não conhecia: que Tu me chamas pelo nome, que me vestes, que me dás um nome cheio de vida. Meu coração está alegre e em paz neste momento.
+Eu Te agradeço por esta leitura. Agradeço porque, através dos pensamentos de Eva, eu vi o que ainda não conhecia: que Tu me chamas pelo nome, que me vestes, que me dás um nome cheio de vida. Meu coração está alegre e em paz neste momento.
 
 Guarda a minha mente em Ti. Encoraja meu coração para a próxima leitura, para que eu continue Te conhecendo e ouvindo a Tua voz.
 
@@ -1172,7 +1172,7 @@ Amém.
 # Referências bíblicas
 
 - Gênesis 1:27 — homem e mulher criados à imagem de Deus
-- Gênesis 2:18-23 — a criação da mulher e o poema de Adão
+- Gênesis 2:17-23 — a ordem sobre a árvore, a criação da mulher e o poema de Adão
 - Gênesis 3:1-21 — a serpente, o fruto, as perguntas de Deus, a promessa, as consequências, o nome de Eva e as vestes
 - Gênesis 4:1-26 — Caim e Abel, o luto, o nascimento de Sete e a invocação do nome do SENHOR
 - Gênesis 17:5, 15-16; 32:28 — nomes mudados por Deus
@@ -1188,7 +1188,7 @@ Amém.
 - Mateus 1:22-23; 6:22; 11:28 — o cumprimento da profecia; os olhos, lâmpada do corpo; o descanso para os cansados
 - Marcos 4:38; 5:25-34 — Jesus dorme no barco; a mulher do fluxo de sangue, chamada filha
 - Lucas 1:38; 2:19, 35-38; 3:38; 5:16; 7:11-15, 36-50; 8:2; 10:39 — Maria, Ana, a genealogia, Jesus se retira para orar, a viúva de Naim, a mulher na casa de Simão, Maria Madalena, Maria de Betânia
-- João 4:6, 13-18, 29; 6:35; 8:44; 10:3; 16:20-21; 19:25-27, 41; 20:15-18 — a samaritana, o pão da vida, o pai da mentira, o bom pastor, as dores de parto, Maria junto à cruz, o jardim da ressurreição
+- João 4:6, 13-18, 29; 6:35; 8:44; 10:3; 11:35; 16:20-21; 19:25-27, 41; 20:15-18 — a samaritana, o pão da vida, o pai da mentira, o bom pastor, as dores de parto, Maria junto à cruz, o jardim da ressurreição
 - Romanos 5:5; 8:22-23, 26, 32-34; 12:2; 16:20 — a esperança, a criação que geme, o Espírito que intercede, ninguém condenará, a mente renovada, a serpente esmagada
 - 2 Coríntios 1:20; 5:17; 10:5; 11:3 — as promessas, nova criatura, o pensamento cativo, a mente enganada
 - Gálatas 3:13, 28; 4:4 — Cristo feito maldição em nosso lugar; um em Cristo; nascido de mulher

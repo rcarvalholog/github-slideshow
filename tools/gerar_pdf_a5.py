@@ -50,9 +50,10 @@ ul { padding-left: 0; list-style: none; font-size: 9.5pt; text-align: left; }
 ul li { margin: 0 0 1.4mm; padding-left: 1.2em; text-indent: -1.2em; }
 .rosto { break-after: page; height: 170mm; display: flex; flex-direction: column;
          justify-content: center; text-align: center; }
-.rosto h1 { break-before: auto; font-size: 26pt; font-weight: 600; letter-spacing: 0.04em; margin: 0 0 6mm; }
+.rosto h1 { break-before: auto; font-size: 23pt; font-weight: 600; letter-spacing: 0.04em; margin: 0 0 6mm;
+            text-wrap: balance; }
 .rosto p { text-indent: 0; text-align: center; }
-.rosto .subtitulo-livro { font-style: italic; font-size: 12pt; margin-bottom: 30mm; }
+.rosto .subtitulo-livro { font-style: italic; font-size: 12pt; margin-bottom: 30mm; text-wrap: balance; }
 .rosto .colecao { letter-spacing: 0.2em; text-transform: uppercase; font-size: 9pt; color: #6b5a3a; }
 .rosto .versao { font-size: 8.5pt; color: #666; margin-top: 4mm; }
 #oracao { break-before: page; margin-top: 25mm; }
@@ -148,6 +149,15 @@ def numerar_paginas(pdf_entrada, pdf_saida, titulo):
     return len(leitor.pages)
 
 
+def titulo_legivel(titulo):
+    """'OS DIAS DE ADÃO' -> 'Os Dias de Adão' (preposições e artigos em minúsculas)."""
+    pequenas = {"a", "o", "as", "os", "de", "da", "do", "das", "dos", "e", "em", "no", "na"}
+    palavras = titulo.lower().split()
+    return " ".join(
+        p if i > 0 and p in pequenas else p[:1].upper() + p[1:] for i, p in enumerate(palavras)
+    )
+
+
 def main(argv):
     if len(argv) != 3:
         print(__doc__)
@@ -164,7 +174,7 @@ def main(argv):
         env = dict(os.environ, NODE_PATH=subprocess.run(
             ["npm", "root", "-g"], capture_output=True, text=True).stdout.strip())
         subprocess.run(["node", script, caminho_html, pdf_bruto], check=True, env=env)
-        paginas = numerar_paginas(pdf_bruto, pdf_saida, titulo.title())
+        paginas = numerar_paginas(pdf_bruto, pdf_saida, titulo_legivel(titulo))
     print(f"{pdf_saida}: {paginas} páginas A5")
     return 0
 
