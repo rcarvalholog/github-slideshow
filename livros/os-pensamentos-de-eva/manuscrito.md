@@ -1215,15 +1215,15 @@ Amém.
 
 - AGOSTINHO. *Confissões*. Tradução de Maria Luiza Jardim Amarante. 4. ed. Paulus, 2024.
 - KELLER, Timothy. *O Significado do Casamento*. Vida Nova, 2012.
-- LEWIS, C. S. *Cristianismo Puro e Simples*. Thomas Nelson Brasil, 2017.
-- LEWIS, C. S. *O Peso da Glória*. Thomas Nelson Brasil, 2017.
+- LEWIS, C. S. *Cristianismo Puro e Simples*. Thomas Nelson Brasil, 2017. ISBN 978-85-7860-177-5.
+- LEWIS, C. S. *O Peso da Glória*. Thomas Nelson Brasil, 2017. ISBN 978-85-7860-065-5.
 - STOTT, John. *A Cruz de Cristo*. Vida, 2006.
 - TEN BOOM, Corrie. *O Refúgio Secreto*. (Editora e ano a conferir.)
-- TOZER, A. W. *À Procura de Deus*. (Editora e ano a conferir.)
+- TOZER, A. W. *À Procura de Deus*. Betânia, 2019. ISBN 978-85-358-0131-6.
 - TOZER, A. W. *O Conhecimento do Santo*. Impacto Publicações, 2018.
 
 # Da mesma coleção
 
 - *Os dias de Adão* — o primeiro homem, a primeira vergonha e a graça que veio procurá-lo.
-- *Os pensamentos de Eva* — a primeira mulher, as vozes que ela ouviu e a graça que lhe deu um nome novo.
+- *Os pensamentos de Eva* (este volume) — a primeira mulher, as vozes que ela ouviu e a graça que lhe deu um nome novo.
 - *De mulher para mulher* — Eva conta a você a sua história, do primeiro dia à criação dos filhos.

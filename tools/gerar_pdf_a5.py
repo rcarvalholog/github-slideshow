@@ -61,6 +61,7 @@ ul li { margin: 0 0 1.4mm; padding-left: 1.2em; text-indent: -1.2em; }
             justify-content: flex-end; font-size: 9pt; text-align: left; color: #333; }
 .creditos h1 { break-before: auto; font-size: 12pt; text-align: left; margin: 0 0 4mm; }
 .creditos p { text-indent: 0; text-align: left; margin-bottom: 2.5mm; }
+.sem-quebra { white-space: nowrap; }
 #oracao { break-before: page; margin-top: 25mm; }
 .oracao p { text-align: center; text-indent: 0; font-style: italic; font-size: 11.5pt; margin-bottom: 3mm; }
 """
@@ -95,9 +96,22 @@ def baixar_fontes():
     return "\n".join(blocos)
 
 
+def sem_quebra_no_hifen(html):
+    """Impede quebra de linha em palavras com hífen ("lembre-se", "encostava-o").
+
+    O navegador não repete o hífen no começo da linha seguinte, como pede a
+    norma do português; por isso essas palavras ficam inteiras numa linha só.
+    """
+    partes = re.split(r"(<[^>]+>)", html)
+    for i, parte in enumerate(partes):
+        if not parte.startswith("<"):
+            partes[i] = re.sub(r"(\w+(?:-\w+)+)", r'<span class="sem-quebra">\1</span>', parte)
+    return "".join(partes)
+
+
 def montar_html(caminho_md, fontes_css):
     corpo = subprocess.run(
-        ["pandoc", caminho_md, "-f", "markdown", "-t", "html5"],
+        ["pandoc", caminho_md, "-f", "markdown", "-t", "html5", "--wrap=none"],
         check=True, capture_output=True, text=True,
     ).stdout
 
@@ -117,7 +131,7 @@ def montar_html(caminho_md, fontes_css):
 
     # "Capítulo Um — Nome" vira número em versalete e nome como título.
     resto = re.sub(
-        r'<h1 id="[^"]*">(Capítulo [^<—]+?) — ([^<]+)</h1>',
+        r'<h1 id="[^"]*">(Capítulo\s+[^<—]+?)\s+—\s+([^<]+)</h1>',
         r'<div class="cap-num">\1</div><h1>\2</h1>',
         resto,
     )
@@ -133,6 +147,7 @@ def montar_html(caminho_md, fontes_css):
         flags=re.S,
     )
 
+    resto = sem_quebra_no_hifen(resto)
     return f"""<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
 <style>{fontes_css}{CSS}</style></head><body>{rosto}{resto}</body></html>"""
 

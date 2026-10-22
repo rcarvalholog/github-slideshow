@@ -31,7 +31,7 @@ Imagine que ela já conhecesse a história inteira: a promessa que recebeu no ja
 
 É isso que você vai encontrar aqui. Eva contando o dia em que nasceu, o encontro com Adão, as tardes com Deus, a conversa que não deveria ter tido, o pior dia da sua vida, as roupas que Deus fez com as próprias mãos, o primeiro filho, os dois meninos tão diferentes, o túmulo que ela cavou, e os netos que começaram a orar.
 
-Tudo o que ela diz está ancorado na Bíblia. Quando Eva imagina ou lembra algo que a Bíblia não registra, ela mesma avisa. E, a cada capítulo, ela abre a Palavra de Deus com você, mostra onde Jesus aparece na sua história e termina com um conselho de mulher para mulher.
+Tudo o que ela diz está ancorado na Bíblia. Nos momentos em que Eva imagina ou lembra algo importante que a Bíblia não registra, ela mesma avisa. E, a cada capítulo, ela abre a Palavra de Deus com você, mostra onde Jesus aparece na sua história e termina com um conselho de mulher para mulher.
 
 A Bíblia tem um nome para esse tipo de conversa. Paulo pediu que as mulheres mais velhas fossem mestras do bem e ensinassem as mais novas a amar os maridos e os filhos (Tito 2:3-4). Este livro quer ser exatamente isso: uma mulher que já caminhou muito, ensinando, com carinho, as que estão caminhando agora.
 
@@ -718,7 +718,7 @@ E, nas madrugadas, lembre-se de que Deus também está acordado. O salmista diz 
 
 O salmista escreveu, muito depois de mim: *"Herança do SENHOR são os filhos; o fruto do ventre, seu galardão"* (Salmos 127:3). Herança. Presente. Os filhos não são propriedade nossa, nem conquista nossa. São dados por Deus e pertencem a Ele antes de pertencerem a nós.
 
-O mesmo Deus que me construiu no jardim tece cada criança no ventre. Davi diz: *"Pois tu formaste o meu interior, tu me teceste no seio de minha mãe"* (Salmos 139:13). Quando você está grávida, há um Artesão trabalhando dentro de você, com mais cuidado do que você imagina.
+O mesmo Deus que me construiu no jardim tece cada criança no ventre, como Davi cantou (Salmos 139:13). Quando você está grávida, há um Artesão trabalhando dentro de você, com mais cuidado do que você imagina.
 
 E Deus se compara a uma mãe para falar do Seu amor. Por meio de Isaías, Ele diz: *"Como alguém a quem sua mãe consola, assim eu vos consolarei"* (Isaías 66:13). E também: *"Acaso, pode uma mulher esquecer-se do filho que ainda mama, de sorte que não se compadeça do filho do seu ventre? Mas ainda que esta viesse a se esquecer dele, eu, todavia, não me esquecerei de ti"* (Isaías 49:15).
 
@@ -1182,16 +1182,16 @@ Amém.
 
 *Citações de autores traduzidas a partir do original. As edições brasileiras abaixo são indicadas para consulta; a redação delas pode diferir. Itens marcados "a conferir" não puderam ser confirmados.*
 
-- KELLER, Timothy. *O Deus Pródigo*. Thomas Nelson Brasil, 2016.
+- KELLER, Timothy. *O Deus Pródigo*: recuperando a essência da fé cristã. Thomas Nelson Brasil, 2016. ISBN 978-85-7860-867-5.
 - KELLER, Timothy. *O Significado do Casamento*. Vida Nova, 2012.
-- LEWIS, C. S. *A Anatomia de uma Dor*. (Editora e ano a conferir.)
-- LEWIS, C. S. *Cartas de um Diabo a seu Aprendiz*. Thomas Nelson Brasil, 2017.
-- LEWIS, C. S. *Os Quatro Amores*. Thomas Nelson Brasil, 2017.
+- LEWIS, C. S. *A Anatomia de uma Dor*: um luto em observação. Tradução de Alípio Franca Correia Neto. Vida, 2007. ISBN 978-85-7367-859-8.
+- LEWIS, C. S. *Cartas de um Diabo a seu Aprendiz*. Thomas Nelson Brasil, 2017. ISBN 978-85-7860-184-3.
+- LEWIS, C. S. *Os Quatro Amores*. Thomas Nelson Brasil, 2017. ISBN 978-85-7860-195-9.
 - TEN BOOM, Corrie. Relato publicado na revista *Guideposts*, nov. 1972; também em *Tramp for the Lord* (sem edição brasileira confirmada).
-- TOZER, A. W. *À Procura de Deus*. (Editora e ano a conferir.)
+- TOZER, A. W. *À Procura de Deus*. Betânia, 2019. ISBN 978-85-358-0131-6.
 
 # Da mesma coleção
 
 - *Os dias de Adão* — o primeiro homem, a primeira vergonha e a graça que veio procurá-lo.
 - *Os pensamentos de Eva* — a primeira mulher, as vozes que ela ouviu e a graça que lhe deu um nome novo.
-- *De mulher para mulher* — Eva conta a você a sua história, do primeiro dia à criação dos filhos.
+- *De mulher para mulher* (este volume) — Eva conta a você a sua história, do primeiro dia à criação dos filhos.
