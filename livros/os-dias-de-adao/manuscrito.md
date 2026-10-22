@@ -1179,15 +1179,14 @@ Amém.
 
 # Referências bibliográficas
 
-*Editora e ano a conferir na edição brasileira consultada.*
+*Citações de autores traduzidas a partir do original. As edições brasileiras abaixo são indicadas para consulta; a redação delas pode diferir. Itens marcados "a conferir" não puderam ser confirmados.*
 
-- KELLER, Timothy. *O Significado do Casamento*.
-- LEWIS, C. S. *Cristianismo Puro e Simples*.
-- LLOYD-JONES, Martyn. *Depressão Espiritual*.
-- PIPER, John. *Em Busca de Deus*.
-- STOTT, John. *A Cruz de Cristo*.
-- TOZER, A. W. *À Procura de Deus*.
-
+- KELLER, Timothy. *O Significado do Casamento*. Vida Nova, 2012.
+- LEWIS, C. S. *Cristianismo Puro e Simples*. Thomas Nelson Brasil, 2017.
+- LLOYD-JONES, Martyn. *Depressão Espiritual*. PES. (Ano a conferir.)
+- PIPER, John. *Em Busca de Deus*. Shedd Publicações, 2008.
+- STOTT, John. *A Cruz de Cristo*. Vida, 2006.
+- TOZER, A. W. *À Procura de Deus*. (Editora e ano a conferir.)
 
 # Da mesma coleção
 

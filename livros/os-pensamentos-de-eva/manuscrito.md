@@ -1202,17 +1202,16 @@ Amém.
 
 # Referências bibliográficas
 
-*Editora e ano a conferir na edição brasileira consultada.*
+*Citações de autores traduzidas a partir do original. As edições brasileiras abaixo são indicadas para consulta; a redação delas pode diferir. Itens marcados "a conferir" não puderam ser confirmados.*
 
-- AGOSTINHO. *Confissões*.
-- KELLER, Timothy. *O Significado do Casamento*.
-- LEWIS, C. S. *Cristianismo Puro e Simples*.
-- LEWIS, C. S. *O Peso da Glória*.
-- STOTT, John. *A Cruz de Cristo*.
-- TEN BOOM, Corrie. *O Refúgio Secreto*.
-- TOZER, A. W. *À Procura de Deus*.
-- TOZER, A. W. *O Conhecimento do Santo*.
-
+- AGOSTINHO. *Confissões*. Tradução de Maria Luiza Jardim Amarante. 4. ed. Paulus, 2024.
+- KELLER, Timothy. *O Significado do Casamento*. Vida Nova, 2012.
+- LEWIS, C. S. *Cristianismo Puro e Simples*. Thomas Nelson Brasil, 2017.
+- LEWIS, C. S. *O Peso da Glória*. Thomas Nelson Brasil, 2017.
+- STOTT, John. *A Cruz de Cristo*. Vida, 2006.
+- TEN BOOM, Corrie. *O Refúgio Secreto*. (Editora e ano a conferir.)
+- TOZER, A. W. *À Procura de Deus*. (Editora e ano a conferir.)
+- TOZER, A. W. *O Conhecimento do Santo*. Impacto Publicações, 2018.
 
 # Da mesma coleção
 

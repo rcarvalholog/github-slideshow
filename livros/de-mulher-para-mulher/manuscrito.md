@@ -539,7 +539,7 @@ Espere a hora mais tranquila do dia. Comece dizendo o que você sente, e não o 
 
 Corrie ten Boom, que sobreviveu a um campo de concentração nazista, contou anos depois como foi encontrar, numa igreja, um dos guardas que a tinham humilhado. Ele estendeu a mão pedindo perdão, e ela não sentia nada além de frieza. Mesmo assim, estendeu a mão também. E escreveu:
 
-*"O perdão é um ato da vontade, e a vontade pode agir independentemente da temperatura do coração."* — Corrie ten Boom, *Ainda aprendendo a perdoar*
+*"O perdão é um ato da vontade, e a vontade pode agir independentemente da temperatura do coração."* — Corrie ten Boom, relato na revista *Guideposts* (1972)
 
 Eu não senti vontade de perdoar Adão no primeiro dia, querida. Nem no segundo. Mas descobri que o perdão começa como uma decisão, e o coração vai aprendendo a seguir depois.
 
@@ -1171,15 +1171,15 @@ Amém.
 
 # Referências bibliográficas
 
-*Editora e ano a conferir na edição brasileira consultada.*
+*Citações de autores traduzidas a partir do original. As edições brasileiras abaixo são indicadas para consulta; a redação delas pode diferir. Itens marcados "a conferir" não puderam ser confirmados.*
 
-- KELLER, Timothy. *O Deus Pródigo*.
-- KELLER, Timothy. *O Significado do Casamento*.
-- LEWIS, C. S. *A Anatomia de uma Dor*.
-- LEWIS, C. S. *Cartas de um Diabo a seu Aprendiz*.
-- LEWIS, C. S. *Os Quatro Amores*.
-- TEN BOOM, Corrie. *Ainda aprendendo a perdoar* (relato publicado na revista *Guideposts*, 1972).
-- TOZER, A. W. *À Procura de Deus*.
+- KELLER, Timothy. *O Deus Pródigo*. Thomas Nelson Brasil, 2016.
+- KELLER, Timothy. *O Significado do Casamento*. Vida Nova, 2012.
+- LEWIS, C. S. *A Anatomia de uma Dor*. (Editora e ano a conferir.)
+- LEWIS, C. S. *Cartas de um Diabo a seu Aprendiz*. Thomas Nelson Brasil, 2017.
+- LEWIS, C. S. *Os Quatro Amores*. Thomas Nelson Brasil, 2017.
+- TEN BOOM, Corrie. Relato publicado na revista *Guideposts*, nov. 1972; também em *Tramp for the Lord* (sem edição brasileira confirmada).
+- TOZER, A. W. *À Procura de Deus*. (Editora e ano a conferir.)
 
 # Da mesma coleção
 
